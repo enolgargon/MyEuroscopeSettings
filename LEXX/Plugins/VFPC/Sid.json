@@ -1,0 +1,643 @@
+[
+   {
+      
+      "icao": "GCTS",
+      "sids": {
+         "ARACO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "BIMBO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "HIE": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "KONBA": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "KOPUD": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "KORAL": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "LPC": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "ODEGI": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "RASEP": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "REMGI": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "SAMAR": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "SARAY": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "VASTO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "URQUI": [
+            {
+               "airways": ["UY661"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["G5", "H770", "UN871", "UT770", "UY442"],
+               "direction": "EVEN"
+            }
+         ]   
+      }
+   },
+   {
+      "icao": "LEMD",
+      "sids": {
+         "BARDI": [
+            {
+               "airways": ["UM191", "B47"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN873"],
+               "direction": "EVEN"
+            }
+         ],
+         "CCS": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "NANDO": [
+            {
+               "airways": ["UL150", "H150"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UM871", "UT257"],
+               "direction": "EVEN"
+            }
+         ],
+         "PINAR": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "RBO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "SIE": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "VTB": [
+            {
+               "airways": ["UL155", "UN10", "UN865", "UN867", "UZ405", "R10", "J865", "J867"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN871"],
+               "direction": "EVEN"
+            }
+         ],
+         "ZMR": [
+            {
+               "airways": ["UL155", "UN733", "A43", "H733"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UM30", "UN873", "R107"],
+               "direction": "EVEN"
+            },
+            {
+               "airways": ["UN976", "G52"],
+               "direction": "ANY"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEAM",
+      "sids": {
+         "AGIDO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "DOSEK": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "ESILA": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "KUNEN": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "RISPO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "VADAT": [
+            {
+               "direction": "ANY"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LECH",
+      "sids": {
+         "MATEX": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "NAVAR": [
+            {
+               "direction": "ANY"
+            }
+         ],
+         "TATOS": [
+            {
+               "direction": "ODD"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEDA",
+      "sids": {
+         "ALOSU": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "BARBO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "OSVAK": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "REBUL": [
+            {
+               "direction": "EVEN"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEGE",
+      "sids": {
+         "BGR": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "GEANT": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "KANIG": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "MAMUK": [
+            {
+               "direction": "ODD"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEMH",
+      "sids": {
+         "BAVER": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "EDULI": [
+            {
+               "airways": ["UM603", "R59"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UM871"],
+               "direction": "EVEN"
+            }
+         ],
+         "EPAMA": [
+            {
+               "airways": ["UN733", "A33"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN856", "A293"],
+               "direction": "EVEN"
+            }
+         ],
+         "ISTER": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "LUNIK": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "MJV": [
+            {
+               "airways": ["UL129", "UN859", "A6", "B31"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN861", "A29"],
+               "direction": "EVEN"
+            }
+         ],
+         "MAMEB": [
+            {
+               "direction": "ANY"
+            }
+         ],
+         "MEROS": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "MORSS": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "NEVIC": [
+            {
+               "direction": "ANY"
+            }
+         ],
+         "SARGO": [
+            {
+               "direction": "EVEN"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEMI",
+      "sids": {
+         "ALT": [
+            {
+               "airways": ["UL112", "UM176", "A31", "A34", "R29", "W810"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN851", "UY810", "B46", "B112"],
+               "direction": "EVEN"
+            }
+         ],
+         "DINCO": [
+            {
+               "airways": ["UL112"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["B112"],
+               "direction": "EVEN"
+            }
+         ],
+         "RESTU": [
+            {
+               "airways": ["UN851", "B46"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN860", "G850"],
+               "direction": "ANY"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LERS",
+      "sids": {
+         "ARBEK": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "BCN": [
+            {
+               "airways": ["Q700", "UM601", "UN859", "UN975", "UZ167", "UZ174", "B28", "B31", "G23", "H70"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UM985", "UN725", "UN870"],
+               "direction": "EVEN"
+            }
+         ],
+         "CRETA": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "DIRMU": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "EBROX": [
+            {
+               "airways": ["UM985", "B28"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN856", "UY80", "UZ26", "UZ444", "A293", "R80", "W111"],
+               "direction": "EVEN"
+            }
+         ],
+         "GARBI": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "MLA": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "POSSY": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "RUBOT": [
+            {
+               "direction": "ANY"
+            }
+         ],
+         "RULOS": [
+            {
+               "direction": "ANY"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEVC",
+      "sids": {
+         "ALT": [
+            {
+               "airways": ["UL112", "UM176", "A31", "A34", "R29", "W810"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UY810", "B112"],
+               "direction": "EVEN"
+            }
+         ], 
+         "ARGOR": [
+            {
+               "direction": "ODD"
+            }
+         ], 
+         "ASTRO": [
+            {
+               "direction": "ODD"
+            }
+         ], 
+         "CENTA": [
+            {
+               "direction": "ODD"
+            }
+         ], 
+         "MABUX": [
+            {
+               "direction": "EVEN",
+               "min_fl": 145
+            }
+         ], 
+         "MANDY": [
+            {
+               "direction": "ANY"
+            }
+         ], 
+         "NARGO": [
+            {
+               "direction": "ODD"
+            }
+         ], 
+         "NINOT": [
+            {
+               "direction": "ODD"
+            }
+         ], 
+         "ODSEN": [
+            {
+               "direction": "EVEN",
+               "min_fl": 145
+            }
+         ], 
+         "ORVUS": [
+            {
+               "direction": "EVEN",
+               "min_fl": 145
+            }
+         ], 
+         "SAURA": [
+            {
+               "direction": "EVEN"
+            }
+         ], 
+         "SOPET": [
+            {
+               "direction": "EVEN"
+            }
+         ], 
+         "TATOS": [
+            {
+               "direction": "EVEN"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEIB",
+      "sids": {
+         "BAVER": [
+            {
+               "direction": "ODD"
+            }
+         ], 
+         "EPAMA": [
+            {
+               "airways": ["UN733", "A33"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN856", "A293"],
+               "direction": "EVEN"
+            }
+         ], 
+         "INSUB": [
+            {
+               "direction": "ODD"
+            }
+         ], 
+         "KABRE": [
+            {
+               "direction": "ANY"
+            }
+         ], 
+         "LAMPA": [
+            {
+               "direction": "ANY"
+            }
+         ], 
+         "MHN": [
+            {
+               "direction": "EVEN"
+            }
+         ], 
+         "XOSTA": [
+            {
+               "direction": "ODD"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEPA",
+      "sids": {
+         "BAVER": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "CDP": [
+            {
+               "airways": ["UM603", "UN733", "UN852", "A33", "R59", "V250"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UT250", "UZ238"],
+               "direction": "EVEN",
+               "min_fl": 145
+            }
+         ],
+         "DRAGO": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "EPAMA": [
+            {
+               "airways": ["UN733", "A33"],
+               "direction": "ODD"
+            },
+            {
+               "airways": ["UN856", "A293"],
+               "direction": "EVEN"
+            }
+         ],
+         "ESPOR": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "GALAT": [
+            {
+               "direction": "EVEN",
+               "min_fl": 145
+            }
+         ],
+         "ISTER": [
+            {
+               "direction": "EVEN",
+               "min_fl": 145
+            }
+         ],
+         "MEBUT": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "MEROS": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "MORSS": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "NELUX": [
+            {
+               "direction": "ANY"
+            }
+         ],
+         "OSGAL": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "PTC": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "TONIS": [
+            {
+               "direction": "ANY"
+            }
+         ]
+      }
+   }
+]

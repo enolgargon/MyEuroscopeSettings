@@ -1,0 +1,298 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LEPA GND\A:freetext
+Free Text:LEPA GND\B:freetext
+Free Text:LEPA GND\C:freetext
+Free Text:LEPA GND\D:freetext
+Free Text:LEPA GND\E:freetext
+Free Text:LEPA GND\F:freetext
+Free Text:LEPA GND\G:freetext
+Free Text:LEPA GND\H1:freetext
+Free Text:LEPA GND\H10:freetext
+Free Text:LEPA GND\H2:freetext
+Free Text:LEPA GND\H4:freetext
+Free Text:LEPA GND\H5:freetext
+Free Text:LEPA GND\H6:freetext
+Free Text:LEPA GND\H7:freetext
+Free Text:LEPA GND\H8:freetext
+Free Text:LEPA GND\H9:freetext
+Free Text:LEPA GND\J:freetext
+Free Text:LEPA GND\K:freetext
+Free Text:LEPA GND\LA:freetext
+Free Text:LEPA GND\LB:freetext
+Free Text:LEPA GND\LC:freetext
+Free Text:LEPA GND\LD:freetext
+Free Text:LEPA GND\LE:freetext
+Free Text:LEPA GND\LF:freetext
+Free Text:LEPA GND\LG:freetext
+Free Text:LEPA GND\LINK:freetext
+Free Text:LEPA GND\LJ:freetext
+Free Text:LEPA GND\LK:freetext
+Free Text:LEPA GND\LM:freetext
+Free Text:LEPA GND\LP:freetext
+Free Text:LEPA GND\LQ:freetext
+Free Text:LEPA GND\LY:freetext
+Free Text:LEPA GND\M:freetext
+Free Text:LEPA GND\MIL E:freetext
+Free Text:LEPA GND\MIL W:freetext
+Free Text:LEPA GND\MU:freetext
+Free Text:LEPA GND\N1:freetext
+Free Text:LEPA GND\N2:freetext
+Free Text:LEPA GND\N3:freetext
+Free Text:LEPA GND\N4:freetext
+Free Text:LEPA GND\N5:freetext
+Free Text:LEPA GND\N6:freetext
+Free Text:LEPA GND\N7:freetext
+Free Text:LEPA GND\NORTH:freetext
+Free Text:LEPA GND\NORTH:freetext
+Free Text:LEPA GND\P:freetext
+Free Text:LEPA GND\Q:freetext
+Free Text:LEPA GND\S1:freetext
+Free Text:LEPA GND\S2:freetext
+Free Text:LEPA GND\S3:freetext
+Free Text:LEPA GND\SOUTH:freetext
+Free Text:LEPA GND\SOUTH:freetext
+Free Text:LEPA GND\T1:freetext
+Free Text:LEPA GND\T2:freetext
+Free Text:LEPA GND\U:freetext
+Free Text:LEPA GND\V1:freetext
+Free Text:LEPA GND\V2:freetext
+Free Text:LEPA GND\W5:freetext
+Free Text:LEPA GND\Y1:freetext
+Free Text:LEPA GND\Y2:freetext
+Free Text:LEPA GND\Y3:freetext
+Free Text:LEPA GND\Z:freetext
+Free Text:LEPA STANDS\01:freetext
+Free Text:LEPA STANDS\02:freetext
+Free Text:LEPA STANDS\03:freetext
+Free Text:LEPA STANDS\04:freetext
+Free Text:LEPA STANDS\05:freetext
+Free Text:LEPA STANDS\06:freetext
+Free Text:LEPA STANDS\08:freetext
+Free Text:LEPA STANDS\10:freetext
+Free Text:LEPA STANDS\100:freetext
+Free Text:LEPA STANDS\101:freetext
+Free Text:LEPA STANDS\102:freetext
+Free Text:LEPA STANDS\103:freetext
+Free Text:LEPA STANDS\104:freetext
+Free Text:LEPA STANDS\105:freetext
+Free Text:LEPA STANDS\106:freetext
+Free Text:LEPA STANDS\107:freetext
+Free Text:LEPA STANDS\108:freetext
+Free Text:LEPA STANDS\109:freetext
+Free Text:LEPA STANDS\114:freetext
+Free Text:LEPA STANDS\114B:freetext
+Free Text:LEPA STANDS\115:freetext
+Free Text:LEPA STANDS\116:freetext
+Free Text:LEPA STANDS\117:freetext
+Free Text:LEPA STANDS\118:freetext
+Free Text:LEPA STANDS\118B:freetext
+Free Text:LEPA STANDS\119:freetext
+Free Text:LEPA STANDS\12:freetext
+Free Text:LEPA STANDS\120:freetext
+Free Text:LEPA STANDS\121:freetext
+Free Text:LEPA STANDS\121:freetext
+Free Text:LEPA STANDS\123:freetext
+Free Text:LEPA STANDS\14:freetext
+Free Text:LEPA STANDS\150:freetext
+Free Text:LEPA STANDS\152:freetext
+Free Text:LEPA STANDS\153:freetext
+Free Text:LEPA STANDS\154:freetext
+Free Text:LEPA STANDS\154B:freetext
+Free Text:LEPA STANDS\155:freetext
+Free Text:LEPA STANDS\156:freetext
+Free Text:LEPA STANDS\156B:freetext
+Free Text:LEPA STANDS\157:freetext
+Free Text:LEPA STANDS\157B:freetext
+Free Text:LEPA STANDS\158:freetext
+Free Text:LEPA STANDS\158B:freetext
+Free Text:LEPA STANDS\159:freetext
+Free Text:LEPA STANDS\16:freetext
+Free Text:LEPA STANDS\18:freetext
+Free Text:LEPA STANDS\20:freetext
+Free Text:LEPA STANDS\200:freetext
+Free Text:LEPA STANDS\202:freetext
+Free Text:LEPA STANDS\203:freetext
+Free Text:LEPA STANDS\204:freetext
+Free Text:LEPA STANDS\205:freetext
+Free Text:LEPA STANDS\206:freetext
+Free Text:LEPA STANDS\207:freetext
+Free Text:LEPA STANDS\208:freetext
+Free Text:LEPA STANDS\209:freetext
+Free Text:LEPA STANDS\210:freetext
+Free Text:LEPA STANDS\210:freetext
+Free Text:LEPA STANDS\211:freetext
+Free Text:LEPA STANDS\212:freetext
+Free Text:LEPA STANDS\213:freetext
+Free Text:LEPA STANDS\214:freetext
+Free Text:LEPA STANDS\215:freetext
+Free Text:LEPA STANDS\216:freetext
+Free Text:LEPA STANDS\217:freetext
+Free Text:LEPA STANDS\218:freetext
+Free Text:LEPA STANDS\219:freetext
+Free Text:LEPA STANDS\22:freetext
+Free Text:LEPA STANDS\220:freetext
+Free Text:LEPA STANDS\221:freetext
+Free Text:LEPA STANDS\222:freetext
+Free Text:LEPA STANDS\223:freetext
+Free Text:LEPA STANDS\224:freetext
+Free Text:LEPA STANDS\225:freetext
+Free Text:LEPA STANDS\226:freetext
+Free Text:LEPA STANDS\227:freetext
+Free Text:LEPA STANDS\228:freetext
+Free Text:LEPA STANDS\229:freetext
+Free Text:LEPA STANDS\230:freetext
+Free Text:LEPA STANDS\231:freetext
+Free Text:LEPA STANDS\232:freetext
+Free Text:LEPA STANDS\233:freetext
+Free Text:LEPA STANDS\234:freetext
+Free Text:LEPA STANDS\235:freetext
+Free Text:LEPA STANDS\236:freetext
+Free Text:LEPA STANDS\237:freetext
+Free Text:LEPA STANDS\238:freetext
+Free Text:LEPA STANDS\239:freetext
+Free Text:LEPA STANDS\23A:freetext
+Free Text:LEPA STANDS\23B:freetext
+Free Text:LEPA STANDS\24:freetext
+Free Text:LEPA STANDS\240:freetext
+Free Text:LEPA STANDS\241:freetext
+Free Text:LEPA STANDS\242:freetext
+Free Text:LEPA STANDS\243:freetext
+Free Text:LEPA STANDS\244:freetext
+Free Text:LEPA STANDS\245:freetext
+Free Text:LEPA STANDS\246:freetext
+Free Text:LEPA STANDS\247:freetext
+Free Text:LEPA STANDS\25:freetext
+Free Text:LEPA STANDS\26:freetext
+Free Text:LEPA STANDS\27:freetext
+Free Text:LEPA STANDS\28:freetext
+Free Text:LEPA STANDS\29:freetext
+Free Text:LEPA STANDS\30:freetext
+Free Text:LEPA STANDS\301:freetext
+Free Text:LEPA STANDS\302:freetext
+Free Text:LEPA STANDS\303:freetext
+Free Text:LEPA STANDS\306:freetext
+Free Text:LEPA STANDS\307:freetext
+Free Text:LEPA STANDS\307B:freetext
+Free Text:LEPA STANDS\308:freetext
+Free Text:LEPA STANDS\308B:freetext
+Free Text:LEPA STANDS\309:freetext
+Free Text:LEPA STANDS\309B:freetext
+Free Text:LEPA STANDS\310:freetext
+Free Text:LEPA STANDS\310B:freetext
+Free Text:LEPA STANDS\311:freetext
+Free Text:LEPA STANDS\312:freetext
+Free Text:LEPA STANDS\313:freetext
+Free Text:LEPA STANDS\314:freetext
+Free Text:LEPA STANDS\315:freetext
+Free Text:LEPA STANDS\315B:freetext
+Free Text:LEPA STANDS\316:freetext
+Free Text:LEPA STANDS\316B:freetext
+Free Text:LEPA STANDS\317:freetext
+Free Text:LEPA STANDS\317B:freetext
+Free Text:LEPA STANDS\318:freetext
+Free Text:LEPA STANDS\318B:freetext
+Free Text:LEPA STANDS\32:freetext
+Free Text:LEPA STANDS\34:freetext
+Free Text:LEPA STANDS\34B:freetext
+Free Text:LEPA STANDS\36:freetext
+Free Text:LEPA STANDS\38:freetext
+Free Text:LEPA STANDS\40:freetext
+Free Text:LEPA STANDS\42:freetext
+Free Text:LEPA STANDS\44:freetext
+Free Text:LEPA STANDS\46:freetext
+Free Text:LEPA STANDS\48:freetext
+Free Text:LEPA STANDS\50:freetext
+Free Text:LEPA STANDS\52:freetext
+Free Text:LEPA STANDS\54:freetext
+Free Text:LEPA STANDS\56:freetext
+Free Text:LEPA STANDS\58:freetext
+Free Text:LEPA STANDS\60:freetext
+Free Text:LEPA STANDS\62:freetext
+Free Text:LEPA STANDS\64:freetext
+Free Text:LEPA STANDS\66:freetext
+Free Text:LEPA STANDS\68:freetext
+Free Text:LEPA STANDS\72:freetext
+Free Text:LEPA STANDS\80:freetext
+Free Text:LEPA STANDS\82:freetext
+Free Text:LEPA STANDS\84:freetext
+Free Text:LEPA STANDS\86:freetext
+Free Text:LEPA STANDS\88:freetext
+Free Text:LEPA STANDS\90:freetext
+Free Text:LEPA STANDS\92:freetext
+Free Text:LEPA STANDS\94:freetext
+Free Text:LEPA STANDS\96:freetext
+Free Text:LEPA STANDS\98:freetext
+Geo:LEPA Groundlayout GND:
+Geo:LEPA Groundlayout STANDS:
+Geo:LEPA Groundlayout TAXILINES:
+Regions:LEPA Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:39.532147:2.686981:39.571167:2.783000
+PLUGIN:Ground Radar plugin:AirportElevation:27
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEPA
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:8
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:477
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEPA
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:2
+PLUGIN:vSMR:SRW1BottomRightX:1895
+PLUGIN:vSMR:SRW1BottomRightY:950
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-48
+PLUGIN:vSMR:SRW1OffsetY:21
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1495
+PLUGIN:vSMR:SRW1TopLeftY:650
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

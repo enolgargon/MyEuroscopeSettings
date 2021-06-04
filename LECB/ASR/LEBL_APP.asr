@@ -1,0 +1,754 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:LEAP:name
+Airports:LEAP:symbol
+Airports:LEIG:name
+Airports:LEIG:symbol
+Airports:LESU:name
+Airports:LESU:symbol
+ARTCC high boundary:TMA LEBL:
+ARTCC high boundary:TMA LELC:
+ARTCC high boundary:TMA LEZG:
+ARTCC low boundary:Tower CTR LEAL ATZ:
+ARTCC low boundary:Tower CTR LEBL 1:
+ARTCC low boundary:Tower CTR LEBL 2:
+ARTCC low boundary:Tower CTR LEBL ATZ:
+ARTCC low boundary:Tower CTR LEBT ATZ:
+ARTCC low boundary:Tower CTR LECH:
+ARTCC low boundary:Tower CTR LEDA:
+ARTCC low boundary:Tower CTR LEDA ATZ:
+ARTCC low boundary:Tower CTR LEGE:
+ARTCC low boundary:Tower CTR LEGE ATZ:
+ARTCC low boundary:Tower CTR LEIB:
+ARTCC low boundary:Tower CTR LELC:
+ARTCC low boundary:Tower CTR LELC ATZ:
+ARTCC low boundary:Tower CTR LELL ATZ:
+ARTCC low boundary:Tower CTR LEMH:
+ARTCC low boundary:Tower CTR LEMH ATZ:
+ARTCC low boundary:Tower CTR LEPA:
+ARTCC low boundary:Tower CTR LEPA ATZ:
+ARTCC low boundary:Tower CTR LERI:
+ARTCC low boundary:Tower CTR LERI ATZ:
+ARTCC low boundary:Tower CTR LERS:
+ARTCC low boundary:Tower CTR LERS ATZ:
+ARTCC low boundary:Tower CTR LEVC:
+ARTCC low boundary:Tower CTR LEVC ATZ:
+Fixes:ALBER:name
+Fixes:ALBER:symbol
+Fixes:ALOSU:name
+Fixes:ALOSU:symbol
+Fixes:AMPOL:name
+Fixes:AMPOL:symbol
+Fixes:BERGA:name
+Fixes:BERGA:symbol
+Fixes:BISBA:name
+Fixes:BISBA:symbol
+Fixes:CASPE:name
+Fixes:CASPE:symbol
+Fixes:EBROX:name
+Fixes:EBROX:symbol
+Fixes:GRAUS:name
+Fixes:GRAUS:symbol
+Fixes:KANIG:name
+Fixes:KANIG:symbol
+Fixes:LOBAR:name
+Fixes:LOBAR:symbol
+Fixes:MAMUK:name
+Fixes:MAMUK:symbol
+Fixes:MARTA:name
+Fixes:MARTA:symbol
+Fixes:MATEX:name
+Fixes:MATEX:symbol
+Fixes:NEPAL:name
+Fixes:NEPAL:symbol
+Fixes:OSTUR:name
+Fixes:OSTUR:symbol
+Fixes:OSVAK:name
+Fixes:OSVAK:symbol
+Fixes:POSSY:name
+Fixes:POSSY:symbol
+Fixes:PUMAL:name
+Fixes:PUMAL:symbol
+Fixes:REBUL:name
+Fixes:REBUL:symbol
+Fixes:SEROX:name
+Fixes:SEROX:symbol
+Fixes:VERSO:name
+Fixes:VERSO:symbol
+Fixes:VILAR:name
+Fixes:VILAR:symbol
+Free Text:LEBL ATCSMAC\12000:freetext
+Free Text:LEBL ATCSMAC\14000:freetext
+Free Text:LEBL ATCSMAC\1500:freetext
+Free Text:LEBL ATCSMAC\1900:freetext
+Free Text:LEBL ATCSMAC\3500:freetext
+Free Text:LEBL ATCSMAC\3500:freetext
+Free Text:LEBL ATCSMAC\4000:freetext
+Free Text:LEBL ATCSMAC\4000:freetext
+Free Text:LEBL ATCSMAC\4200:freetext
+Free Text:LEBL ATCSMAC\4600:freetext
+Free Text:LEBL ATCSMAC\5000:freetext
+Free Text:LEBL ATCSMAC\5000:freetext
+Free Text:LEBL ATCSMAC\5100:freetext
+Free Text:LEBL ATCSMAC\6000:freetext
+Free Text:LEBL ATCSMAC\6000:freetext
+Free Text:LEBL ATCSMAC\7000:freetext
+Free Text:LEBL ATCSMAC\7200:freetext
+Free Text:LEBL ATCSMAC\7500:freetext
+Free Text:LEBL ATCSMAC\8000:freetext
+Free Text:LEBL ATCSMAC\8000:freetext
+Free Text:LEBL ATCSMAC\8000:freetext
+Free Text:LEBL ATCSMAC\9000:freetext
+Free Text:LEDA VFR\E:freetext
+Free Text:LEDA VFR\N:freetext
+Free Text:LEDA VFR\S:freetext
+Free Text:LEDA VFR\SW:freetext
+Free Text:LEGE VFR\E:freetext
+Free Text:LEGE VFR\SE:freetext
+Free Text:LEGE VFR\SW:freetext
+Free Text:LEGE VFR\W:freetext
+Free Text:LELL VFR\E:freetext
+Free Text:LELL VFR\N:freetext
+Free Text:LELL VFR\NE:freetext
+Free Text:LELL VFR\W:freetext
+Free Text:LERS VFR\E:freetext
+Free Text:LERS VFR\N:freetext
+Free Text:LERS VFR\S:freetext
+Free Text:LERS VFR\W:freetext
+Free Text:LESU VFR\E:freetext
+Free Text:LESU VFR\N:freetext
+Free Text:LESU VFR\S:freetext
+Geo:LEBL MRVA:
+Geo:LECB Landmark Baleares:
+Geo:LECB Landmark Border Spain - France:
+Geo:LECB Landmark Coastline France:
+Geo:LECB Landmark Coastline litoral este:
+NDBs:ADX:frequency
+NDBs:ADX:name
+NDBs:ADX:symbol
+NDBs:AI:frequency
+NDBs:AI:name
+NDBs:AI:symbol
+NDBs:AL:frequency
+NDBs:AL:name
+NDBs:AL:symbol
+NDBs:ALB:frequency
+NDBs:ALB:name
+NDBs:ALB:symbol
+NDBs:ALU:frequency
+NDBs:ALU:name
+NDBs:ALU:symbol
+NDBs:AM:frequency
+NDBs:AM:name
+NDBs:AM:symbol
+NDBs:AMN:frequency
+NDBs:AMN:name
+NDBs:AMN:symbol
+NDBs:B:frequency
+NDBs:B:name
+NDBs:B:symbol
+NDBs:BJA:frequency
+NDBs:BJA:name
+NDBs:BJA:symbol
+NDBs:BJZ:frequency
+NDBs:BJZ:name
+NDBs:BJZ:symbol
+NDBs:BK:frequency
+NDBs:BK:name
+NDBs:BK:symbol
+NDBs:BNA:frequency
+NDBs:BNA:name
+NDBs:BNA:symbol
+NDBs:BOU:frequency
+NDBs:BOU:name
+NDBs:BOU:symbol
+NDBs:BSA:frequency
+NDBs:BSA:name
+NDBs:BSA:symbol
+NDBs:CB:frequency
+NDBs:CB:name
+NDBs:CB:symbol
+NDBs:CEU:frequency
+NDBs:CEU:name
+NDBs:CEU:symbol
+NDBs:CHE:frequency
+NDBs:CHE:name
+NDBs:CHE:symbol
+NDBs:CNE:frequency
+NDBs:CNE:name
+NDBs:CNE:symbol
+NDBs:CST:frequency
+NDBs:CST:name
+NDBs:CST:symbol
+NDBs:CVT:frequency
+NDBs:CVT:name
+NDBs:CVT:symbol
+NDBs:EAG:frequency
+NDBs:EAG:name
+NDBs:EAG:symbol
+NDBs:EAL:frequency
+NDBs:EAL:name
+NDBs:EAL:symbol
+NDBs:EBT:frequency
+NDBs:EBT:name
+NDBs:EBT:symbol
+NDBs:ECV:frequency
+NDBs:ECV:name
+NDBs:ECV:symbol
+NDBs:EEC:frequency
+NDBs:EEC:name
+NDBs:EEC:symbol
+NDBs:EVR:frequency
+NDBs:EVR:name
+NDBs:EVR:symbol
+NDBs:G:frequency
+NDBs:G:name
+NDBs:G:symbol
+NDBs:GE:frequency
+NDBs:GE:name
+NDBs:GE:symbol
+NDBs:GM:frequency
+NDBs:GM:name
+NDBs:GM:symbol
+NDBs:GR:frequency
+NDBs:GR:name
+NDBs:GR:symbol
+NDBs:GRA:frequency
+NDBs:GRA:name
+NDBs:GRA:symbol
+NDBs:GRN:frequency
+NDBs:GRN:name
+NDBs:GRN:symbol
+NDBs:GRS:frequency
+NDBs:GRS:name
+NDBs:GRS:symbol
+NDBs:HMB:frequency
+NDBs:HMB:name
+NDBs:HMB:symbol
+NDBs:IZA:frequency
+NDBs:IZA:name
+NDBs:IZA:symbol
+NDBs:JER:frequency
+NDBs:JER:name
+NDBs:JER:symbol
+NDBs:LAR:frequency
+NDBs:LAR:name
+NDBs:LAR:symbol
+NDBs:LRD:frequency
+NDBs:LRD:name
+NDBs:LRD:symbol
+NDBs:MAR:frequency
+NDBs:MAR:name
+NDBs:MAR:symbol
+NDBs:MIA:frequency
+NDBs:MIA:name
+NDBs:MIA:symbol
+NDBs:MIO:frequency
+NDBs:MIO:name
+NDBs:MIO:symbol
+NDBs:MN:frequency
+NDBs:MN:name
+NDBs:MN:symbol
+NDBs:OA:frequency
+NDBs:OA:name
+NDBs:OA:symbol
+NDBs:ON:frequency
+NDBs:ON:name
+NDBs:ON:symbol
+NDBs:OO:frequency
+NDBs:OO:name
+NDBs:OO:symbol
+NDBs:PA:frequency
+NDBs:PA:name
+NDBs:PA:symbol
+NDBs:PAM:frequency
+NDBs:PAM:name
+NDBs:PAM:symbol
+NDBs:PL:frequency
+NDBs:PL:name
+NDBs:PL:symbol
+NDBs:PND:frequency
+NDBs:PND:name
+NDBs:PND:symbol
+NDBs:PP:frequency
+NDBs:PP:name
+NDBs:PP:symbol
+NDBs:PTC:frequency
+NDBs:PTC:name
+NDBs:PTC:symbol
+NDBs:RMA:frequency
+NDBs:RMA:name
+NDBs:RMA:symbol
+NDBs:RUS:frequency
+NDBs:RUS:name
+NDBs:RUS:symbol
+NDBs:SAL:frequency
+NDBs:SAL:name
+NDBs:SAL:symbol
+NDBs:SGO:frequency
+NDBs:SGO:name
+NDBs:SGO:symbol
+NDBs:SMR:frequency
+NDBs:SMR:name
+NDBs:SMR:symbol
+NDBs:SO:frequency
+NDBs:SO:name
+NDBs:SO:symbol
+NDBs:SP:frequency
+NDBs:SP:name
+NDBs:SP:symbol
+NDBs:SPP:frequency
+NDBs:SPP:name
+NDBs:SPP:symbol
+NDBs:STR:frequency
+NDBs:STR:name
+NDBs:STR:symbol
+NDBs:TAN:frequency
+NDBs:TAN:name
+NDBs:TAN:symbol
+NDBs:TJA:frequency
+NDBs:TJA:name
+NDBs:TJA:symbol
+NDBs:TO:frequency
+NDBs:TO:name
+NDBs:TO:symbol
+NDBs:TON:frequency
+NDBs:TON:name
+NDBs:TON:symbol
+NDBs:VI:frequency
+NDBs:VI:name
+NDBs:VI:symbol
+NDBs:VNV:frequency
+NDBs:VNV:name
+NDBs:VNV:symbol
+NDBs:VON:frequency
+NDBs:VON:name
+NDBs:VON:symbol
+NDBs:VT:frequency
+NDBs:VT:name
+NDBs:VT:symbol
+NDBs:VTA:frequency
+NDBs:VTA:name
+NDBs:VTA:symbol
+NDBs:ZEM:frequency
+NDBs:ZEM:name
+NDBs:ZEM:symbol
+NDBs:ZRZ:frequency
+NDBs:ZRZ:name
+NDBs:ZRZ:symbol
+Runways:LEBL 02-20:extended centerline 1
+Runways:LEBL 02-20:extended centerline 1 left ticks
+Runways:LEBL 02-20:extended centerline 1 right ticks
+Runways:LEBL 02-20:extended centerline 2
+Runways:LEBL 02-20:extended centerline 2 left ticks
+Runways:LEBL 02-20:extended centerline 2 right ticks
+Runways:LEBL 07L-25R:extended centerline 1
+Runways:LEBL 07L-25R:extended centerline 1 left ticks
+Runways:LEBL 07L-25R:extended centerline 2
+Runways:LEBL 07L-25R:extended centerline 2 right ticks
+Runways:LEBL 07R-25L:extended centerline 1
+Runways:LEBL 07R-25L:extended centerline 1 right ticks
+Runways:LEBL 07R-25L:extended centerline 2
+Runways:LEBL 07R-25L:extended centerline 2 left ticks
+Runways:LEDA 13-31:extended centerline 1
+Runways:LEDA 13-31:extended centerline 1 left ticks
+Runways:LEDA 13-31:extended centerline 1 right ticks
+Runways:LEDA 13-31:extended centerline 2
+Runways:LEDA 13-31:extended centerline 2 left ticks
+Runways:LEDA 13-31:extended centerline 2 right ticks
+Runways:LEGE 02-20:extended centerline 1
+Runways:LEGE 02-20:extended centerline 1 left ticks
+Runways:LEGE 02-20:extended centerline 1 right ticks
+Runways:LEGE 02-20:extended centerline 2
+Runways:LEGE 02-20:extended centerline 2 left ticks
+Runways:LEGE 02-20:extended centerline 2 right ticks
+Runways:LELL 13-31:extended centerline 1
+Runways:LELL 13-31:extended centerline 1 left ticks
+Runways:LELL 13-31:extended centerline 1 right ticks
+Runways:LELL 13-31:extended centerline 2
+Runways:LELL 13-31:extended centerline 2 left ticks
+Runways:LELL 13-31:extended centerline 2 right ticks
+Runways:LERS 07-25:extended centerline 1
+Runways:LERS 07-25:extended centerline 1 left ticks
+Runways:LERS 07-25:extended centerline 1 right ticks
+Runways:LERS 07-25:extended centerline 2
+Runways:LERS 07-25:extended centerline 2 left ticks
+Runways:LERS 07-25:extended centerline 2 right ticks
+VORs:AGP:frequency
+VORs:AGP:name
+VORs:AGP:symbol
+VORs:ALM:frequency
+VORs:ALM:name
+VORs:ALM:symbol
+VORs:ALR:frequency
+VORs:ALR:name
+VORs:ALR:symbol
+VORs:ALT:frequency
+VORs:ALT:name
+VORs:ALT:symbol
+VORs:AMR:frequency
+VORs:AMR:name
+VORs:AMR:symbol
+VORs:ARR:frequency
+VORs:ARR:name
+VORs:ARR:symbol
+VORs:ATE:frequency
+VORs:ATE:name
+VORs:ATE:symbol
+VORs:BAN:frequency
+VORs:BAN:name
+VORs:BAN:symbol
+VORs:BBI:frequency
+VORs:BBI:name
+VORs:BBI:symbol
+VORs:BCN:frequency
+VORs:BCN:name
+VORs:BCN:symbol
+VORs:BGR:frequency
+VORs:BGR:name
+VORs:BGR:symbol
+VORs:BJA:frequency
+VORs:BJA:name
+VORs:BJA:symbol
+VORs:BLN:frequency
+VORs:BLN:name
+VORs:BLN:symbol
+VORs:BRA:frequency
+VORs:BRA:name
+VORs:BRA:symbol
+VORs:BSA:frequency
+VORs:BSA:name
+VORs:BSA:symbol
+VORs:BTN:frequency
+VORs:BTN:name
+VORs:BTN:symbol
+VORs:BUR:frequency
+VORs:BUR:name
+VORs:BUR:symbol
+VORs:CAS:frequency
+VORs:CAS:name
+VORs:CAS:symbol
+VORs:CCS:frequency
+VORs:CCS:name
+VORs:CCS:symbol
+VORs:CDB:frequency
+VORs:CDB:name
+VORs:CDB:symbol
+VORs:CDP:frequency
+VORs:CDP:name
+VORs:CDP:symbol
+VORs:CEU:frequency
+VORs:CEU:name
+VORs:CEU:symbol
+VORs:CJN:frequency
+VORs:CJN:name
+VORs:CJN:symbol
+VORs:CLE:frequency
+VORs:CLE:name
+VORs:CLE:symbol
+VORs:CLF:frequency
+VORs:CLF:name
+VORs:CLF:symbol
+VORs:CLS:frequency
+VORs:CLS:name
+VORs:CLS:symbol
+VORs:CMA:frequency
+VORs:CMA:name
+VORs:CMA:symbol
+VORs:CNR:frequency
+VORs:CNR:name
+VORs:CNR:symbol
+VORs:CSO:frequency
+VORs:CSO:name
+VORs:CSO:symbol
+VORs:CTN:frequency
+VORs:CTN:name
+VORs:CTN:symbol
+VORs:DAR:frequency
+VORs:DAR:name
+VORs:DAR:symbol
+VORs:DGO:frequency
+VORs:DGO:name
+VORs:DGO:symbol
+VORs:DML:frequency
+VORs:DML:name
+VORs:DML:symbol
+VORs:DMR:frequency
+VORs:DMR:name
+VORs:DMR:symbol
+VORs:DMT:frequency
+VORs:DMT:name
+VORs:DMT:symbol
+VORs:DMU:frequency
+VORs:DMU:name
+VORs:DMU:symbol
+VORs:DMX:frequency
+VORs:DMX:name
+VORs:DMX:symbol
+VORs:DPR:frequency
+VORs:DPR:name
+VORs:DPR:symbol
+VORs:DSL:frequency
+VORs:DSL:name
+VORs:DSL:symbol
+VORs:EON:frequency
+VORs:EON:name
+VORs:EON:symbol
+VORs:ESP:frequency
+VORs:ESP:name
+VORs:ESP:symbol
+VORs:FAR:frequency
+VORs:FAR:name
+VORs:FAR:symbol
+VORs:FTM:frequency
+VORs:FTM:name
+VORs:FTM:symbol
+VORs:GDA:frequency
+VORs:GDA:name
+VORs:GDA:symbol
+VORs:GIR:frequency
+VORs:GIR:name
+VORs:GIR:symbol
+VORs:GRS:frequency
+VORs:GRS:name
+VORs:GRS:symbol
+VORs:HBM:frequency
+VORs:HBM:name
+VORs:HBM:symbol
+VORs:HIJ:frequency
+VORs:HIJ:name
+VORs:HIJ:symbol
+VORs:HUE:frequency
+VORs:HUE:name
+VORs:HUE:symbol
+VORs:IBA:frequency
+VORs:IBA:name
+VORs:IBA:symbol
+VORs:JIL:frequency
+VORs:JIL:name
+VORs:JIL:symbol
+VORs:JOA:frequency
+VORs:JOA:name
+VORs:JOA:symbol
+VORs:JRZ:frequency
+VORs:JRZ:name
+VORs:JRZ:symbol
+VORs:LIS:frequency
+VORs:LIS:name
+VORs:LIS:symbol
+VORs:LLE:frequency
+VORs:LLE:name
+VORs:LLE:symbol
+VORs:LPA:frequency
+VORs:LPA:name
+VORs:LPA:symbol
+VORs:MAR:frequency
+VORs:MAR:name
+VORs:MAR:symbol
+VORs:MEL:frequency
+VORs:MEL:name
+VORs:MEL:symbol
+VORs:MGA:frequency
+VORs:MGA:name
+VORs:MGA:symbol
+VORs:MHN:frequency
+VORs:MHN:name
+VORs:MHN:symbol
+VORs:MJV:frequency
+VORs:MJV:name
+VORs:MJV:symbol
+VORs:MLA:frequency
+VORs:MLA:name
+VORs:MLA:symbol
+VORs:MLG:frequency
+VORs:MLG:name
+VORs:MLG:symbol
+VORs:MLL:frequency
+VORs:MLL:name
+VORs:MLL:symbol
+VORs:MOS:frequency
+VORs:MOS:name
+VORs:MOS:symbol
+VORs:MRN:frequency
+VORs:MRN:name
+VORs:MRN:symbol
+VORs:MUR:frequency
+VORs:MUR:name
+VORs:MUR:symbol
+VORs:NEA:frequency
+VORs:NEA:name
+VORs:NEA:symbol
+VORs:NSA:frequency
+VORs:NSA:name
+VORs:NSA:symbol
+VORs:NUB:frequency
+VORs:NUB:name
+VORs:NUB:symbol
+VORs:NVS:frequency
+VORs:NVS:name
+VORs:NVS:symbol
+VORs:ORA:frequency
+VORs:ORA:name
+VORs:ORA:symbol
+VORs:PAP:frequency
+VORs:PAP:name
+VORs:PAP:symbol
+VORs:PDT:frequency
+VORs:PDT:name
+VORs:PDT:symbol
+VORs:POS:frequency
+VORs:POS:name
+VORs:POS:symbol
+VORs:PPG:frequency
+VORs:PPG:name
+VORs:PPG:symbol
+VORs:PPN:frequency
+VORs:PPN:name
+VORs:PPN:symbol
+VORs:PRA:frequency
+VORs:PRA:name
+VORs:PRA:symbol
+VORs:PRT:frequency
+VORs:PRT:name
+VORs:PRT:symbol
+VORs:RBO:frequency
+VORs:RBO:name
+VORs:RBO:symbol
+VORs:RES:frequency
+VORs:RES:name
+VORs:RES:symbol
+VORs:SDM:frequency
+VORs:SDM:name
+VORs:SDM:symbol
+VORs:SGR:frequency
+VORs:SGR:name
+VORs:SGR:symbol
+VORs:SIE:frequency
+VORs:SIE:name
+VORs:SIE:symbol
+VORs:SLL:frequency
+VORs:SLL:name
+VORs:SLL:symbol
+VORs:SRA:frequency
+VORs:SRA:name
+VORs:SRA:symbol
+VORs:SSY:frequency
+VORs:SSY:name
+VORs:SSY:symbol
+VORs:STF:frequency
+VORs:STF:name
+VORs:STF:symbol
+VORs:STG:frequency
+VORs:STG:name
+VORs:STG:symbol
+VORs:SVL:frequency
+VORs:SVL:name
+VORs:SVL:symbol
+VORs:TLD:frequency
+VORs:TLD:name
+VORs:TLD:symbol
+VORs:TLM:frequency
+VORs:TLM:name
+VORs:TLM:symbol
+VORs:TNG:frequency
+VORs:TNG:name
+VORs:TNG:symbol
+VORs:TRB:frequency
+VORs:TRB:name
+VORs:TRB:symbol
+VORs:TTN:frequency
+VORs:TTN:name
+VORs:TTN:symbol
+VORs:VAB:frequency
+VORs:VAB:name
+VORs:VAB:symbol
+VORs:VBZ:frequency
+VORs:VBZ:name
+VORs:VBZ:symbol
+VORs:VFA:frequency
+VORs:VFA:name
+VORs:VFA:symbol
+VORs:VFD:frequency
+VORs:VFD:name
+VORs:VFD:symbol
+VORs:VGE:frequency
+VORs:VGE:name
+VORs:VGE:symbol
+VORs:VGO:frequency
+VORs:VGO:name
+VORs:VGO:symbol
+VORs:VIS:frequency
+VORs:VIS:name
+VORs:VIS:symbol
+VORs:VJF:frequency
+VORs:VJF:name
+VORs:VJF:symbol
+VORs:VLA:frequency
+VORs:VLA:name
+VORs:VLA:symbol
+VORs:VLC:frequency
+VORs:VLC:name
+VORs:VLC:symbol
+VORs:VRA:frequency
+VORs:VRA:name
+VORs:VRA:symbol
+VORs:VSJ:frequency
+VORs:VSJ:name
+VORs:VSJ:symbol
+VORs:VTB:frequency
+VORs:VTB:name
+VORs:VTB:symbol
+VORs:VTZ:frequency
+VORs:VTZ:name
+VORs:VTZ:symbol
+VORs:YES:frequency
+VORs:YES:name
+VORs:YES:symbol
+VORs:ZAR:frequency
+VORs:ZAR:name
+VORs:ZAR:symbol
+VORs:ZEM:frequency
+VORs:ZEM:name
+VORs:ZEM:symbol
+VORs:ZMR:frequency
+VORs:ZMR:name
+VORs:ZMR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - ENR/APP
+WINDOWAREA:39.464446:-1.921557:42.719655:6.088805
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:26
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:196
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH

@@ -1,0 +1,129 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LESU GND\A:freetext
+Free Text:LESU GND\B:freetext
+Free Text:LESU GND\C:freetext
+Free Text:LESU GND\D:freetext
+Free Text:LESU GND\E:freetext
+Free Text:LESU GND\G:freetext
+Free Text:LESU GND\G:freetext
+Free Text:LESU GND\GT.A:freetext
+Free Text:LESU GND\GT.B:freetext
+Free Text:LESU GND\M:freetext
+Free Text:LESU GND\N:freetext
+Free Text:LESU GND\S:freetext
+Free Text:LESU GND\W:freetext
+Free Text:LESU STANDS\11:freetext
+Free Text:LESU STANDS\12:freetext
+Free Text:LESU STANDS\13:freetext
+Free Text:LESU STANDS\14:freetext
+Free Text:LESU STANDS\15:freetext
+Free Text:LESU STANDS\16:freetext
+Free Text:LESU STANDS\17:freetext
+Free Text:LESU STANDS\18:freetext
+Free Text:LESU STANDS\21:freetext
+Free Text:LESU STANDS\22:freetext
+Free Text:LESU STANDS\23:freetext
+Free Text:LESU STANDS\31:freetext
+Free Text:LESU STANDS\32:freetext
+Free Text:LESU STANDS\33:freetext
+Free Text:LESU STANDS\34:freetext
+Free Text:LESU STANDS\35:freetext
+Free Text:LESU STANDS\36:freetext
+Free Text:LESU STANDS\37:freetext
+Free Text:LESU STANDS\38:freetext
+Free Text:LESU STANDS\39:freetext
+Free Text:LESU STANDS\A:freetext
+Free Text:LESU STANDS\B:freetext
+Free Text:LESU STANDS\C:freetext
+Free Text:LESU STANDS\D:freetext
+Free Text:LESU STANDS\E:freetext
+Free Text:LESU STANDS\F:freetext
+Free Text:LESU STANDS\G:freetext
+Free Text:LESU STANDS\H:freetext
+Free Text:LESU STANDS\I:freetext
+Free Text:LESU STANDS\K:freetext
+Free Text:LESU STANDS\L:freetext
+Free Text:LESU STANDS\M:freetext
+Free Text:LESU STANDS\N:freetext
+Free Text:LESU STANDS\P:freetext
+Free Text:LESU STANDS\Q:freetext
+Free Text:LESU STANDS\R:freetext
+Free Text:LESU STANDS\S:freetext
+Free Text:LESU STANDS\T:freetext
+Free Text:LESU STANDS\U:freetext
+Free Text:LESU STANDS\V:freetext
+Free Text:LESU STANDS\W:freetext
+Free Text:LESU STANDS\X:freetext
+Geo:LESU Groundlayout GND:
+Geo:LESU Groundlayout PARKINGS:
+Geo:LESU Groundlayout TAXILINES:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:42.331776:1.387018:42.351753:1.436177
+PLUGIN:Ground Radar plugin:AirportElevation:2630
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LESU
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:8
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:477
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LESU
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:2
+PLUGIN:vSMR:SRW1BottomRightX:1892
+PLUGIN:vSMR:SRW1BottomRightY:957
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1492
+PLUGIN:vSMR:SRW1TopLeftY:657
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

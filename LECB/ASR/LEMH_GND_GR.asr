@@ -1,0 +1,117 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LEMH GND\A1:freetext
+Free Text:LEMH GND\A2:freetext
+Free Text:LEMH GND\C:freetext
+Free Text:LEMH GND\D:freetext
+Free Text:LEMH GND\D:freetext
+Free Text:LEMH GND\E:freetext
+Free Text:LEMH GND\E:freetext
+Free Text:LEMH GND\F:freetext
+Free Text:LEMH GND\J:freetext
+Free Text:LEMH GND\J:freetext
+Free Text:LEMH GND\NL:freetext
+Free Text:LEMH GND\NR:freetext
+Free Text:LEMH GND\T:freetext
+Free Text:LEMH GND\T:freetext
+Free Text:LEMH GND\T1:freetext
+Free Text:LEMH STANDS\1:freetext
+Free Text:LEMH STANDS\10:freetext
+Free Text:LEMH STANDS\11:freetext
+Free Text:LEMH STANDS\12:freetext
+Free Text:LEMH STANDS\13:freetext
+Free Text:LEMH STANDS\14:freetext
+Free Text:LEMH STANDS\15:freetext
+Free Text:LEMH STANDS\16:freetext
+Free Text:LEMH STANDS\17:freetext
+Free Text:LEMH STANDS\19:freetext
+Free Text:LEMH STANDS\2:freetext
+Free Text:LEMH STANDS\21:freetext
+Free Text:LEMH STANDS\23:freetext
+Free Text:LEMH STANDS\3:freetext
+Free Text:LEMH STANDS\4:freetext
+Free Text:LEMH STANDS\5:freetext
+Free Text:LEMH STANDS\5A:freetext
+Free Text:LEMH STANDS\6:freetext
+Free Text:LEMH STANDS\7:freetext
+Free Text:LEMH STANDS\7A:freetext
+Free Text:LEMH STANDS\8:freetext
+Free Text:LEMH STANDS\9:freetext
+Free Text:LEMH STANDS\A1:freetext
+Free Text:LEMH STANDS\A2:freetext
+Free Text:LEMH STANDS\A3:freetext
+Free Text:LEMH STANDS\A4:freetext
+Free Text:LEMH STANDS\B1:freetext
+Free Text:LEMH STANDS\B2:freetext
+Free Text:LEMH STANDS\B3:freetext
+Free Text:LEMH STANDS\B4:freetext
+Free Text:LEMH STANDS\B5:freetext
+Free Text:LEMH STANDS\B6:freetext
+Free Text:LEMH STANDS\B7:freetext
+Free Text:LEMH STANDS\C1:freetext
+Free Text:LEMH STANDS\C2:freetext
+Free Text:LEMH STANDS\C3:freetext
+Free Text:LEMH STANDS\C4:freetext
+Free Text:LEMH STANDS\C5:freetext
+Free Text:LEMH STANDS\C6:freetext
+Free Text:LEMH STANDS\C7:freetext
+Free Text:LEMH STANDS\D1:freetext
+Free Text:LEMH STANDS\D2:freetext
+Free Text:LEMH STANDS\D3:freetext
+Free Text:LEMH STANDS\D4:freetext
+Free Text:LEMH STANDS\D5:freetext
+Free Text:LEMH STANDS\D6:freetext
+Free Text:LEMH STANDS\D7:freetext
+Free Text:LEMH STANDS\E1:freetext
+Free Text:LEMH STANDS\E2:freetext
+Free Text:LEMH STANDS\E3:freetext
+Free Text:LEMH STANDS\E4:freetext
+Free Text:LEMH STANDS\E5:freetext
+Free Text:LEMH STANDS\E6:freetext
+Free Text:LEMH STANDS\E7:freetext
+Geo:LEMH Groundlayout GND:
+Geo:LEMH Groundlayout STANDS:
+Geo:LEMH Groundlayout TAXILINES:
+Geo:LEMH MRVA:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:39.847445:4.185531:39.878653:4.262327
+PLUGIN:Ground Radar plugin:AirportElevation:303
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEMH
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:100
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:100
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:1
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:1
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH

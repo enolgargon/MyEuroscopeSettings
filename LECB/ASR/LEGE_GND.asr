@@ -1,0 +1,132 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LEGE GND\E1-E:freetext
+Free Text:LEGE GND\E1-I:freetext
+Free Text:LEGE GND\E2:freetext
+Free Text:LEGE GND\E3:freetext
+Free Text:LEGE GND\E4-E:freetext
+Free Text:LEGE GND\E4-I:freetext
+Free Text:LEGE GND\G1:freetext
+Free Text:LEGE GND\G2:freetext
+Free Text:LEGE GND\G3:freetext
+Free Text:LEGE GND\G4:freetext
+Free Text:LEGE GND\T1:freetext
+Free Text:LEGE GND\T2:freetext
+Free Text:LEGE GND\T3:freetext
+Free Text:LEGE GND\T4:freetext
+Free Text:LEGE GND\T5:freetext
+Free Text:LEGE GND\T6:freetext
+Free Text:LEGE STANDS\1:freetext
+Free Text:LEGE STANDS\10:freetext
+Free Text:LEGE STANDS\11:freetext
+Free Text:LEGE STANDS\12:freetext
+Free Text:LEGE STANDS\12A:freetext
+Free Text:LEGE STANDS\12B:freetext
+Free Text:LEGE STANDS\12C:freetext
+Free Text:LEGE STANDS\13:freetext
+Free Text:LEGE STANDS\14:freetext
+Free Text:LEGE STANDS\15:freetext
+Free Text:LEGE STANDS\15A:freetext
+Free Text:LEGE STANDS\16:freetext
+Free Text:LEGE STANDS\17:freetext
+Free Text:LEGE STANDS\18:freetext
+Free Text:LEGE STANDS\2:freetext
+Free Text:LEGE STANDS\3:freetext
+Free Text:LEGE STANDS\4:freetext
+Free Text:LEGE STANDS\5:freetext
+Free Text:LEGE STANDS\6:freetext
+Free Text:LEGE STANDS\7:freetext
+Free Text:LEGE STANDS\8:freetext
+Free Text:LEGE STANDS\9:freetext
+Free Text:LEGE STANDS\H1:freetext
+Free Text:LEGE STANDS\H2:freetext
+Free Text:LEGE STANDS\H3:freetext
+Free Text:LEGE STANDS\H4:freetext
+Free Text:LEGE STANDS\S1:freetext
+Free Text:LEGE STANDS\S2:freetext
+Free Text:LEGE STANDS\S3:freetext
+Free Text:LEGE STANDS\S4:freetext
+Free Text:LEGE STANDS\S5:freetext
+Free Text:LEGE STANDS\S6:freetext
+Free Text:LEGE STANDS\S7:freetext
+Free Text:LEGE STANDS\S8:freetext
+Free Text:LEGE STANDS\V1:freetext
+Free Text:LEGE STANDS\V2:freetext
+Free Text:LEGE STANDS\V3:freetext
+Free Text:LEGE STANDS\V4:freetext
+Free Text:LEGE STANDS\V5:freetext
+Free Text:LEGE STANDS\V6:freetext
+Free Text:LEGE STANDS\V7:freetext
+Free Text:LEGE STANDS\V8:freetext
+Free Text:LEGE STANDS\V9:freetext
+Geo:LEGE Groundlayout GND:
+Geo:LEGE Groundlayout STANDS:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:41.888021:2.730169:41.920748:2.810704
+PLUGIN:Ground Radar plugin:AirportElevation:14
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEGE
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:66
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:406
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEGE
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1860
+PLUGIN:vSMR:SRW1BottomRightY:959
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-72
+PLUGIN:vSMR:SRW1OffsetY:-46
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1460
+PLUGIN:vSMR:SRW1TopLeftY:659
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

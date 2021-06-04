@@ -1,0 +1,116 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LESB GND\C1:freetext
+Free Text:LESB GND\C2:freetext
+Free Text:LESB GND\S1:freetext
+Free Text:LESB GND\S2:freetext
+Free Text:LESB GND\S3:freetext
+Free Text:LESB GND\S4:freetext
+Free Text:LESB STANDS\1:freetext
+Free Text:LESB STANDS\10:freetext
+Free Text:LESB STANDS\11:freetext
+Free Text:LESB STANDS\12:freetext
+Free Text:LESB STANDS\13:freetext
+Free Text:LESB STANDS\14:freetext
+Free Text:LESB STANDS\15:freetext
+Free Text:LESB STANDS\16:freetext
+Free Text:LESB STANDS\17:freetext
+Free Text:LESB STANDS\18:freetext
+Free Text:LESB STANDS\19:freetext
+Free Text:LESB STANDS\2:freetext
+Free Text:LESB STANDS\20:freetext
+Free Text:LESB STANDS\21:freetext
+Free Text:LESB STANDS\22:freetext
+Free Text:LESB STANDS\23:freetext
+Free Text:LESB STANDS\24:freetext
+Free Text:LESB STANDS\25:freetext
+Free Text:LESB STANDS\26:freetext
+Free Text:LESB STANDS\27:freetext
+Free Text:LESB STANDS\28:freetext
+Free Text:LESB STANDS\29:freetext
+Free Text:LESB STANDS\3:freetext
+Free Text:LESB STANDS\30:freetext
+Free Text:LESB STANDS\4:freetext
+Free Text:LESB STANDS\40:freetext
+Free Text:LESB STANDS\41:freetext
+Free Text:LESB STANDS\42:freetext
+Free Text:LESB STANDS\43:freetext
+Free Text:LESB STANDS\44:freetext
+Free Text:LESB STANDS\45:freetext
+Free Text:LESB STANDS\5:freetext
+Free Text:LESB STANDS\51:freetext
+Free Text:LESB STANDS\52:freetext
+Free Text:LESB STANDS\53:freetext
+Free Text:LESB STANDS\54:freetext
+Free Text:LESB STANDS\55:freetext
+Free Text:LESB STANDS\56:freetext
+Free Text:LESB STANDS\57:freetext
+Free Text:LESB STANDS\58:freetext
+Free Text:LESB STANDS\59:freetext
+Free Text:LESB STANDS\6:freetext
+Free Text:LESB STANDS\60:freetext
+Free Text:LESB STANDS\61:freetext
+Free Text:LESB STANDS\62:freetext
+Free Text:LESB STANDS\63:freetext
+Free Text:LESB STANDS\64:freetext
+Free Text:LESB STANDS\65:freetext
+Free Text:LESB STANDS\66:freetext
+Free Text:LESB STANDS\67:freetext
+Free Text:LESB STANDS\7:freetext
+Free Text:LESB STANDS\8:freetext
+Free Text:LESB STANDS\80:freetext
+Free Text:LESB STANDS\81:freetext
+Free Text:LESB STANDS\82:freetext
+Free Text:LESB STANDS\83:freetext
+Free Text:LESB STANDS\84:freetext
+Free Text:LESB STANDS\9:freetext
+Geo:LESB Groundlayout GND:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:39.591111:2.683249:39.607093:2.722578
+PLUGIN:Ground Radar plugin:AirportElevation:27
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEPA
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:8
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:477
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEPA
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:2

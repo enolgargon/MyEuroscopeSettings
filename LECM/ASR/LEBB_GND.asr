@@ -1,0 +1,152 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:LEBB:name
+Airports:LEBB:symbol
+Free Text:LEBB STANDS\1:freetext
+Free Text:LEBB STANDS\10:freetext
+Free Text:LEBB STANDS\10:freetext
+Free Text:LEBB STANDS\11:freetext
+Free Text:LEBB STANDS\11:freetext
+Free Text:LEBB STANDS\111:freetext
+Free Text:LEBB STANDS\11A:freetext
+Free Text:LEBB STANDS\12:freetext
+Free Text:LEBB STANDS\123:freetext
+Free Text:LEBB STANDS\13:freetext
+Free Text:LEBB STANDS\14:freetext
+Free Text:LEBB STANDS\15:freetext
+Free Text:LEBB STANDS\16:freetext
+Free Text:LEBB STANDS\17:freetext
+Free Text:LEBB STANDS\18:freetext
+Free Text:LEBB STANDS\19:freetext
+Free Text:LEBB STANDS\2:freetext
+Free Text:LEBB STANDS\20:freetext
+Free Text:LEBB STANDS\21:freetext
+Free Text:LEBB STANDS\3:freetext
+Free Text:LEBB STANDS\4:freetext
+Free Text:LEBB STANDS\5:freetext
+Free Text:LEBB STANDS\6:freetext
+Free Text:LEBB STANDS\6A:freetext
+Free Text:LEBB STANDS\7:freetext
+Free Text:LEBB STANDS\7:freetext
+Free Text:LEBB STANDS\78:freetext
+Free Text:LEBB STANDS\8:freetext
+Free Text:LEBB STANDS\8:freetext
+Free Text:LEBB STANDS\89:freetext
+Free Text:LEBB STANDS\89:freetext
+Free Text:LEBB STANDS\9:freetext
+Free Text:LEBB STANDS\9:freetext
+Free Text:LEBB STANDS\G1:freetext
+Free Text:LEBB STANDS\G10:freetext
+Free Text:LEBB STANDS\G11:freetext
+Free Text:LEBB STANDS\G12:freetext
+Free Text:LEBB STANDS\G13:freetext
+Free Text:LEBB STANDS\G14:freetext
+Free Text:LEBB STANDS\G15:freetext
+Free Text:LEBB STANDS\G16:freetext
+Free Text:LEBB STANDS\G17:freetext
+Free Text:LEBB STANDS\G18:freetext
+Free Text:LEBB STANDS\G2:freetext
+Free Text:LEBB STANDS\G3:freetext
+Free Text:LEBB STANDS\G4:freetext
+Free Text:LEBB STANDS\G5:freetext
+Free Text:LEBB STANDS\G6:freetext
+Free Text:LEBB STANDS\H1:freetext
+Free Text:LEBB STANDS\H12:freetext
+Free Text:LEBB STANDS\H2:freetext
+Free Text:LEBB STANDS\H21:freetext
+Free Text:LEBB STANDS\H3:freetext
+Free Text:LEBB STANDS\H4:freetext
+Free Text:LEBB STANDS\H5:freetext
+Free Text:LEBB TAXIWAYS\A1:freetext
+Free Text:LEBB TAXIWAYS\A2:freetext
+Free Text:LEBB TAXIWAYS\B:freetext
+Free Text:LEBB TAXIWAYS\C1:freetext
+Free Text:LEBB TAXIWAYS\C2:freetext
+Free Text:LEBB TAXIWAYS\C3:freetext
+Free Text:LEBB TAXIWAYS\C4:freetext
+Free Text:LEBB TAXIWAYS\C5:freetext
+Free Text:LEBB TAXIWAYS\C6:freetext
+Free Text:LEBB TAXIWAYS\D1:freetext
+Free Text:LEBB TAXIWAYS\D2:freetext
+Free Text:LEBB TAXIWAYS\D3:freetext
+Free Text:LEBB TAXIWAYS\K1:freetext
+Free Text:LEBB TAXIWAYS\S1:freetext
+Free Text:LEBB TAXIWAYS\T1:freetext
+Free Text:LEBB TAXIWAYS\T2:freetext
+Free Text:LEBB TAXIWAYS\T3:freetext
+Free Text:LEBB TAXIWAYS\T4:freetext
+Free Text:LEBB TAXIWAYS\T5:freetext
+Free Text:LEBB TAXIWAYS\T6:freetext
+Geo:LEBB Groundlayout GND:
+Geo:LEBB Groundlayout STANDS:
+Geo:LEBB Groundlayout TAXILINES:
+Geo:LEBB MRVA:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:43.284995:-2.956007:43.317043:-2.877144
+PLUGIN:Ground Radar plugin:AirportElevation:136
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEBB
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:780
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:109
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:255
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:20
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:352
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEBB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1909
+PLUGIN:vSMR:SRW1BottomRightY:935
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1509
+PLUGIN:vSMR:SRW1TopLeftY:635
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

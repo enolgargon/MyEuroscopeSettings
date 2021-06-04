@@ -1,0 +1,74 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:LEAS:name
+Airports:LEAS:symbol
+Free Text:LEAS GND\A:freetext
+Free Text:LEAS GND\B:freetext
+Free Text:LEAS GND\C-1:freetext
+Free Text:LEAS GND\D:freetext
+Free Text:LEAS GND\T:freetext
+Free Text:LEAS GND\T:freetext
+Free Text:LEAS GND\T:freetext
+Free Text:LEAS GND\T:freetext
+Free Text:LEAS GND\T-1:freetext
+Free Text:LEAS GND\T-2:freetext
+Free Text:LEAS STANDS\1:freetext
+Free Text:LEAS STANDS\2:freetext
+Free Text:LEAS STANDS\3:freetext
+Free Text:LEAS STANDS\4:freetext
+Free Text:LEAS STANDS\5:freetext
+Free Text:LEAS STANDS\6:freetext
+Free Text:LEAS STANDS\7:freetext
+Free Text:LEAS STANDS\8:freetext
+Free Text:LEAS STANDS\8A:freetext
+Free Text:LEAS STANDS\9:freetext
+Geo:LEAS Groundlayout GND:
+Geo:LEAS Groundlayout STANDS:
+Geo:LEAS Groundlayout TAXILINES:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:43.548998:-6.062362:43.574636:-5.999272
+PLUGIN:Ground Radar plugin:AirportElevation:136
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEAS
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEAS
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:2
+PLUGIN:vSMR:SRW1BottomRightX:1919
+PLUGIN:vSMR:SRW1BottomRightY:955
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-110
+PLUGIN:vSMR:SRW1OffsetY:-4
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1519
+PLUGIN:vSMR:SRW1TopLeftY:655
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,112 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LERS GND\A1:freetext
+Free Text:LERS GND\A2:freetext
+Free Text:LERS GND\B:freetext
+Free Text:LERS GND\C:freetext
+Free Text:LERS GND\DL:freetext
+Free Text:LERS GND\DR:freetext
+Free Text:LERS GND\T0:freetext
+Free Text:LERS GND\T1:freetext
+Free Text:LERS GND\T2:freetext
+Free Text:LERS GND\T3:freetext
+Free Text:LERS GND\T4:freetext
+Free Text:LERS STANDS\1:freetext
+Free Text:LERS STANDS\10:freetext
+Free Text:LERS STANDS\11:freetext
+Free Text:LERS STANDS\12:freetext
+Free Text:LERS STANDS\13:freetext
+Free Text:LERS STANDS\14:freetext
+Free Text:LERS STANDS\15:freetext
+Free Text:LERS STANDS\16:freetext
+Free Text:LERS STANDS\17:freetext
+Free Text:LERS STANDS\18:freetext
+Free Text:LERS STANDS\1A:freetext
+Free Text:LERS STANDS\2:freetext
+Free Text:LERS STANDS\2A:freetext
+Free Text:LERS STANDS\3:freetext
+Free Text:LERS STANDS\30:freetext
+Free Text:LERS STANDS\31:freetext
+Free Text:LERS STANDS\32:freetext
+Free Text:LERS STANDS\33:freetext
+Free Text:LERS STANDS\34:freetext
+Free Text:LERS STANDS\3A:freetext
+Free Text:LERS STANDS\4:freetext
+Free Text:LERS STANDS\5:freetext
+Free Text:LERS STANDS\6:freetext
+Free Text:LERS STANDS\7:freetext
+Free Text:LERS STANDS\8:freetext
+Free Text:LERS STANDS\9:freetext
+Free Text:LERS STANDS\XL:freetext
+Geo:LERS Groundlayout GND:
+Geo:LERS Groundlayout STANDS:
+Geo:LERS Groundlayout TAXILINES:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:41.136500:1.142798:41.162682:1.207226
+PLUGIN:Ground Radar plugin:AirportElevation:14
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LERS
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:48
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:440
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LERS
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1860
+PLUGIN:vSMR:SRW1BottomRightY:959
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-72
+PLUGIN:vSMR:SRW1OffsetY:-46
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1460
+PLUGIN:vSMR:SRW1TopLeftY:659
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

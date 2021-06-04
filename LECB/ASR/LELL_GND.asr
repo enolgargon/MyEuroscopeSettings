@@ -1,0 +1,179 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LELL GND\A:freetext
+Free Text:LELL GND\B:freetext
+Free Text:LELL GND\C:freetext
+Free Text:LELL GND\D:freetext
+Free Text:LELL GND\E1:freetext
+Free Text:LELL GND\E2:freetext
+Free Text:LELL GND\E3:freetext
+Free Text:LELL GND\E4:freetext
+Free Text:LELL GND\E5:freetext
+Free Text:LELL GND\E6:freetext
+Free Text:LELL GND\E7:freetext
+Free Text:LELL GND\J:freetext
+Free Text:LELL GND\M1:freetext
+Free Text:LELL GND\M2:freetext
+Free Text:LELL GND\M3:freetext
+Free Text:LELL GND\N1:freetext
+Free Text:LELL GND\N2:freetext
+Free Text:LELL GND\N3:freetext
+Free Text:LELL GND\S1:freetext
+Free Text:LELL GND\S2:freetext
+Free Text:LELL GND\T1:freetext
+Free Text:LELL GND\T2:freetext
+Free Text:LELL GND\T3:freetext
+Free Text:LELL GND\T4:freetext
+Free Text:LELL GND\T5:freetext
+Free Text:LELL GND\T6:freetext
+Free Text:LELL GND\TA:freetext
+Free Text:LELL GND\TB:freetext
+Free Text:LELL GND\W1:freetext
+Free Text:LELL GND\W2:freetext
+Free Text:LELL GND\W3:freetext
+Free Text:LELL GND\Y1:freetext
+Free Text:LELL GND\Y2:freetext
+Free Text:LELL GND\Z2:freetext
+Free Text:LELL GND\Z3:freetext
+Free Text:LELL GND\Z5:freetext
+Free Text:LELL GND\Z7:freetext
+Free Text:LELL STANDS\101:freetext
+Free Text:LELL STANDS\102:freetext
+Free Text:LELL STANDS\103:freetext
+Free Text:LELL STANDS\104:freetext
+Free Text:LELL STANDS\105:freetext
+Free Text:LELL STANDS\106:freetext
+Free Text:LELL STANDS\107:freetext
+Free Text:LELL STANDS\108:freetext
+Free Text:LELL STANDS\109:freetext
+Free Text:LELL STANDS\110:freetext
+Free Text:LELL STANDS\120:freetext
+Free Text:LELL STANDS\121:freetext
+Free Text:LELL STANDS\122:freetext
+Free Text:LELL STANDS\201:freetext
+Free Text:LELL STANDS\202:freetext
+Free Text:LELL STANDS\203:freetext
+Free Text:LELL STANDS\204:freetext
+Free Text:LELL STANDS\205:freetext
+Free Text:LELL STANDS\206:freetext
+Free Text:LELL STANDS\207:freetext
+Free Text:LELL STANDS\208:freetext
+Free Text:LELL STANDS\209:freetext
+Free Text:LELL STANDS\210:freetext
+Free Text:LELL STANDS\211:freetext
+Free Text:LELL STANDS\212:freetext
+Free Text:LELL STANDS\220:freetext
+Free Text:LELL STANDS\221:freetext
+Free Text:LELL STANDS\222:freetext
+Free Text:LELL STANDS\223:freetext
+Free Text:LELL STANDS\225:freetext
+Free Text:LELL STANDS\226:freetext
+Free Text:LELL STANDS\227:freetext
+Free Text:LELL STANDS\228:freetext
+Free Text:LELL STANDS\230:freetext
+Free Text:LELL STANDS\231:freetext
+Free Text:LELL STANDS\232:freetext
+Free Text:LELL STANDS\233:freetext
+Free Text:LELL STANDS\234:freetext
+Free Text:LELL STANDS\235:freetext
+Free Text:LELL STANDS\301:freetext
+Free Text:LELL STANDS\302:freetext
+Free Text:LELL STANDS\303:freetext
+Free Text:LELL STANDS\304:freetext
+Free Text:LELL STANDS\305:freetext
+Free Text:LELL STANDS\306:freetext
+Free Text:LELL STANDS\306A:freetext
+Free Text:LELL STANDS\307:freetext
+Free Text:LELL STANDS\307A:freetext
+Free Text:LELL STANDS\308:freetext
+Free Text:LELL STANDS\308A:freetext
+Free Text:LELL STANDS\309:freetext
+Free Text:LELL STANDS\310:freetext
+Free Text:LELL STANDS\311:freetext
+Free Text:LELL STANDS\312:freetext
+Free Text:LELL STANDS\313:freetext
+Free Text:LELL STANDS\320:freetext
+Free Text:LELL STANDS\320A:freetext
+Free Text:LELL STANDS\321:freetext
+Free Text:LELL STANDS\322:freetext
+Free Text:LELL STANDS\322A:freetext
+Free Text:LELL STANDS\323:freetext
+Free Text:LELL STANDS\324:freetext
+Free Text:LELL STANDS\324A:freetext
+Free Text:LELL STANDS\325:freetext
+Free Text:LELL STANDS\326:freetext
+Free Text:LELL STANDS\401:freetext
+Free Text:LELL STANDS\402:freetext
+Free Text:LELL STANDS\403:freetext
+Geo:LELL Groundlayout GND:
+Geo:LELL Groundlayout STANDS:
+Geo:LELL Groundlayout TAXILINES:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:41.516109:2.095568:41.526833:2.121958
+PLUGIN:Ground Radar plugin:AirportElevation:14
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LELL
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:16
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:370
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LELL
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1860
+PLUGIN:vSMR:SRW1BottomRightY:959
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-72
+PLUGIN:vSMR:SRW1OffsetY:-46
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1460
+PLUGIN:vSMR:SRW1TopLeftY:659
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

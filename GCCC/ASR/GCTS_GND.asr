@@ -1,0 +1,153 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:GCTS GND\A2-1:freetext
+Free Text:GCTS GND\A2-2:freetext
+Free Text:GCTS GND\B0:freetext
+Free Text:GCTS GND\B1:freetext
+Free Text:GCTS GND\B2:freetext
+Free Text:GCTS GND\B3:freetext
+Free Text:GCTS GND\B4:freetext
+Free Text:GCTS GND\B5:freetext
+Free Text:GCTS GND\B6:freetext
+Free Text:GCTS GND\B7:freetext
+Free Text:GCTS GND\D1:freetext
+Free Text:GCTS GND\D2:freetext
+Free Text:GCTS GND\D3:freetext
+Free Text:GCTS GND\D4:freetext
+Free Text:GCTS GND\D5:freetext
+Free Text:GCTS GND\D6:freetext
+Free Text:GCTS GND\T:freetext
+Free Text:GCTS STANDS\AG1:freetext
+Free Text:GCTS STANDS\AG2:freetext
+Free Text:GCTS STANDS\AG21:freetext
+Free Text:GCTS STANDS\AG3:freetext
+Free Text:GCTS STANDS\AG4:freetext
+Free Text:GCTS STANDS\AG5:freetext
+Free Text:GCTS STANDS\E49:freetext
+Free Text:GCTS STANDS\E50:freetext
+Free Text:GCTS STANDS\E51:freetext
+Free Text:GCTS STANDS\E52:freetext
+Free Text:GCTS STANDS\E53:freetext
+Free Text:GCTS STANDS\E54:freetext
+Free Text:GCTS STANDS\E55:freetext
+Free Text:GCTS STANDS\E56:freetext
+Free Text:GCTS STANDS\E57:freetext
+Free Text:GCTS STANDS\E58:freetext
+Free Text:GCTS STANDS\E59:freetext
+Free Text:GCTS STANDS\E60:freetext
+Free Text:GCTS STANDS\E61:freetext
+Free Text:GCTS STANDS\E62:freetext
+Free Text:GCTS STANDS\E63:freetext
+Free Text:GCTS STANDS\E64:freetext
+Free Text:GCTS STANDS\E65:freetext
+Free Text:GCTS STANDS\E66:freetext
+Free Text:GCTS STANDS\E67:freetext
+Free Text:GCTS STANDS\E68:freetext
+Free Text:GCTS STANDS\E69:freetext
+Free Text:GCTS STANDS\E70:freetext
+Free Text:GCTS STANDS\G2:freetext
+Free Text:GCTS STANDS\G20:freetext
+Free Text:GCTS STANDS\G23:freetext
+Free Text:GCTS STANDS\G25:freetext
+Free Text:GCTS STANDS\G35:freetext
+Free Text:GCTS STANDS\G35A:freetext
+Free Text:GCTS STANDS\G36:freetext
+Free Text:GCTS STANDS\G36A:freetext
+Free Text:GCTS STANDS\G4:freetext
+Free Text:GCTS STANDS\G48:freetext
+Free Text:GCTS STANDS\G6:freetext
+Free Text:GCTS STANDS\H37:freetext
+Free Text:GCTS STANDS\H37A:freetext
+Free Text:GCTS STANDS\H38:freetext
+Free Text:GCTS STANDS\H39:freetext
+Free Text:GCTS STANDS\H43:freetext
+Free Text:GCTS STANDS\H44:freetext
+Free Text:GCTS STANDS\H46:freetext
+Free Text:GCTS STANDS\J1:freetext
+Free Text:GCTS STANDS\J22:freetext
+Free Text:GCTS STANDS\J24:freetext
+Free Text:GCTS STANDS\J3:freetext
+Free Text:GCTS STANDS\J5:freetext
+Free Text:GCTS STANDS\J7:freetext
+Free Text:GCTS STANDS\J8:freetext
+Free Text:GCTS STANDS\R19:freetext
+Free Text:GCTS STANDS\R40:freetext
+Free Text:GCTS STANDS\R42:freetext
+Free Text:GCTS STANDS\R45:freetext
+Free Text:GCTS STANDS\R47:freetext
+Free Text:GCTS STANDS\R5A:freetext
+Free Text:GCTS STANDS\S41:freetext
+Geo:GCTS Groundlayout GND:
+Geo:GCTS Groundlayout STANDS:
+Geo:GCTS Groundlayout TAXILINES:
+Regions:GCTS Ground Layout:polygon
+Runways:GCTS 07-25:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:28.018781:-16.635372:28.072802:-16.523751
+PLUGIN:Ground Radar plugin:AirportElevation:209
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GCTS
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:845
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:GCTS
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:2
+PLUGIN:vSMR:SRW1BottomRightX:1891
+PLUGIN:vSMR:SRW1BottomRightY:957
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1491
+PLUGIN:vSMR:SRW1TopLeftY:657
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,288 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LEMG STANDS\01:freetext
+Free Text:LEMG STANDS\02:freetext
+Free Text:LEMG STANDS\03:freetext
+Free Text:LEMG STANDS\04:freetext
+Free Text:LEMG STANDS\05:freetext
+Free Text:LEMG STANDS\06:freetext
+Free Text:LEMG STANDS\07:freetext
+Free Text:LEMG STANDS\09:freetext
+Free Text:LEMG STANDS\11:freetext
+Free Text:LEMG STANDS\13:freetext
+Free Text:LEMG STANDS\14:freetext
+Free Text:LEMG STANDS\15:freetext
+Free Text:LEMG STANDS\16:freetext
+Free Text:LEMG STANDS\18:freetext
+Free Text:LEMG STANDS\21:freetext
+Free Text:LEMG STANDS\23:freetext
+Free Text:LEMG STANDS\24:freetext
+Free Text:LEMG STANDS\25:freetext
+Free Text:LEMG STANDS\26:freetext
+Free Text:LEMG STANDS\27:freetext
+Free Text:LEMG STANDS\28:freetext
+Free Text:LEMG STANDS\31:freetext
+Free Text:LEMG STANDS\33:freetext
+Free Text:LEMG STANDS\35:freetext
+Free Text:LEMG STANDS\37:freetext
+Free Text:LEMG STANDS\42:freetext
+Free Text:LEMG STANDS\44:freetext
+Free Text:LEMG STANDS\45:freetext
+Free Text:LEMG STANDS\46:freetext
+Free Text:LEMG STANDS\461:freetext
+Free Text:LEMG STANDS\462:freetext
+Free Text:LEMG STANDS\463:freetext
+Free Text:LEMG STANDS\464:freetext
+Free Text:LEMG STANDS\465:freetext
+Free Text:LEMG STANDS\466:freetext
+Free Text:LEMG STANDS\467:freetext
+Free Text:LEMG STANDS\468:freetext
+Free Text:LEMG STANDS\48:freetext
+Free Text:LEMG STANDS\49:freetext
+Free Text:LEMG STANDS\50:freetext
+Free Text:LEMG STANDS\500:freetext
+Free Text:LEMG STANDS\501:freetext
+Free Text:LEMG STANDS\502:freetext
+Free Text:LEMG STANDS\503:freetext
+Free Text:LEMG STANDS\504:freetext
+Free Text:LEMG STANDS\505:freetext
+Free Text:LEMG STANDS\510:freetext
+Free Text:LEMG STANDS\511:freetext
+Free Text:LEMG STANDS\512:freetext
+Free Text:LEMG STANDS\513:freetext
+Free Text:LEMG STANDS\514:freetext
+Free Text:LEMG STANDS\515:freetext
+Free Text:LEMG STANDS\516:freetext
+Free Text:LEMG STANDS\517:freetext
+Free Text:LEMG STANDS\52:freetext
+Free Text:LEMG STANDS\520:freetext
+Free Text:LEMG STANDS\521:freetext
+Free Text:LEMG STANDS\522:freetext
+Free Text:LEMG STANDS\523:freetext
+Free Text:LEMG STANDS\524:freetext
+Free Text:LEMG STANDS\525:freetext
+Free Text:LEMG STANDS\526:freetext
+Free Text:LEMG STANDS\530:freetext
+Free Text:LEMG STANDS\531:freetext
+Free Text:LEMG STANDS\532:freetext
+Free Text:LEMG STANDS\533:freetext
+Free Text:LEMG STANDS\534:freetext
+Free Text:LEMG STANDS\535:freetext
+Free Text:LEMG STANDS\536:freetext
+Free Text:LEMG STANDS\537:freetext
+Free Text:LEMG STANDS\538:freetext
+Free Text:LEMG STANDS\539:freetext
+Free Text:LEMG STANDS\54:freetext
+Free Text:LEMG STANDS\540:freetext
+Free Text:LEMG STANDS\541:freetext
+Free Text:LEMG STANDS\60:freetext
+Free Text:LEMG STANDS\62:freetext
+Free Text:LEMG STANDS\64:freetext
+Free Text:LEMG STANDS\66:freetext
+Free Text:LEMG STANDS\68:freetext
+Free Text:LEMG STANDS\70:freetext
+Free Text:LEMG STANDS\71:freetext
+Free Text:LEMG STANDS\72:freetext
+Free Text:LEMG STANDS\73:freetext
+Free Text:LEMG STANDS\74:freetext
+Free Text:LEMG STANDS\75:freetext
+Free Text:LEMG STANDS\76:freetext
+Free Text:LEMG STANDS\77:freetext
+Free Text:LEMG STANDS\78:freetext
+Free Text:LEMG STANDS\79:freetext
+Free Text:LEMG STANDS\80:freetext
+Free Text:LEMG STANDS\81:freetext
+Free Text:LEMG STANDS\82:freetext
+Free Text:LEMG STANDS\83:freetext
+Free Text:LEMG STANDS\84:freetext
+Free Text:LEMG STANDS\85:freetext
+Free Text:LEMG STANDS\86:freetext
+Free Text:LEMG STANDS\87:freetext
+Free Text:LEMG STANDS\88:freetext
+Free Text:LEMG STANDS\89:freetext
+Free Text:LEMG STANDS\90:freetext
+Free Text:LEMG STANDS\91:freetext
+Free Text:LEMG STANDS\92:freetext
+Free Text:LEMG STANDS\93:freetext
+Free Text:LEMG STANDS\95:freetext
+Free Text:LEMG STANDS\97:freetext
+Free Text:LEMG STANDS\99:freetext
+Free Text:LEMG STANDS\F2:freetext
+Free Text:LEMG STANDS\F3:freetext
+Free Text:LEMG STANDS\F5:freetext
+Free Text:LEMG STANDS\U1:freetext
+Free Text:LEMG STANDS\U2:freetext
+Free Text:LEMG STANDS\U3:freetext
+Free Text:LEMG STANDS\U4:freetext
+Free Text:LEMG STANDS\U5:freetext
+Free Text:LEMG STANDS\V1:freetext
+Free Text:LEMG STANDS\V2:freetext
+Free Text:LEMG STANDS\V3:freetext
+Free Text:LEMG STANDS\V4:freetext
+Free Text:LEMG STANDS\V5:freetext
+Free Text:LEMG STANDS\W1:freetext
+Free Text:LEMG STANDS\W2:freetext
+Free Text:LEMG STANDS\W3:freetext
+Free Text:LEMG STANDS\W4:freetext
+Free Text:LEMG STANDS\W5:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A:freetext
+Free Text:LEMG TAXIWAYS\A1:freetext
+Free Text:LEMG TAXIWAYS\A2:freetext
+Free Text:LEMG TAXIWAYS\A3:freetext
+Free Text:LEMG TAXIWAYS\AH:freetext
+Free Text:LEMG TAXIWAYS\B:freetext
+Free Text:LEMG TAXIWAYS\B:freetext
+Free Text:LEMG TAXIWAYS\B1:freetext
+Free Text:LEMG TAXIWAYS\B2:freetext
+Free Text:LEMG TAXIWAYS\B3:freetext
+Free Text:LEMG TAXIWAYS\C:freetext
+Free Text:LEMG TAXIWAYS\C2:freetext
+Free Text:LEMG TAXIWAYS\CD:freetext
+Free Text:LEMG TAXIWAYS\D:freetext
+Free Text:LEMG TAXIWAYS\D:freetext
+Free Text:LEMG TAXIWAYS\D:freetext
+Free Text:LEMG TAXIWAYS\D1:freetext
+Free Text:LEMG TAXIWAYS\D2:freetext
+Free Text:LEMG TAXIWAYS\E-1:freetext
+Free Text:LEMG TAXIWAYS\E-10:freetext
+Free Text:LEMG TAXIWAYS\E-11:freetext
+Free Text:LEMG TAXIWAYS\E-2:freetext
+Free Text:LEMG TAXIWAYS\E-3:freetext
+Free Text:LEMG TAXIWAYS\E-4:freetext
+Free Text:LEMG TAXIWAYS\E-5:freetext
+Free Text:LEMG TAXIWAYS\E-6:freetext
+Free Text:LEMG TAXIWAYS\E-7:freetext
+Free Text:LEMG TAXIWAYS\E-8:freetext
+Free Text:LEMG TAXIWAYS\E-9:freetext
+Free Text:LEMG TAXIWAYS\EM:freetext
+Free Text:LEMG TAXIWAYS\F:freetext
+Free Text:LEMG TAXIWAYS\G-1:freetext
+Free Text:LEMG TAXIWAYS\G-10:freetext
+Free Text:LEMG TAXIWAYS\G-12:freetext
+Free Text:LEMG TAXIWAYS\G-13:freetext
+Free Text:LEMG TAXIWAYS\G-2:freetext
+Free Text:LEMG TAXIWAYS\G-3:freetext
+Free Text:LEMG TAXIWAYS\G-4:freetext
+Free Text:LEMG TAXIWAYS\G-5:freetext
+Free Text:LEMG TAXIWAYS\G-6:freetext
+Free Text:LEMG TAXIWAYS\G-7:freetext
+Free Text:LEMG TAXIWAYS\G-8:freetext
+Free Text:LEMG TAXIWAYS\G-9:freetext
+Free Text:LEMG TAXIWAYS\HE-1:freetext
+Free Text:LEMG TAXIWAYS\HE-2:freetext
+Free Text:LEMG TAXIWAYS\HE-3:freetext
+Free Text:LEMG TAXIWAYS\HM:freetext
+Free Text:LEMG TAXIWAYS\HN-1L:freetext
+Free Text:LEMG TAXIWAYS\HN-1R:freetext
+Free Text:LEMG TAXIWAYS\HN-2:freetext
+Free Text:LEMG TAXIWAYS\HN-3:freetext
+Free Text:LEMG TAXIWAYS\HS-1:freetext
+Free Text:LEMG TAXIWAYS\HS-1:freetext
+Free Text:LEMG TAXIWAYS\HS-2:freetext
+Free Text:LEMG TAXIWAYS\HS-3:freetext
+Free Text:LEMG TAXIWAYS\HW-1:freetext
+Free Text:LEMG TAXIWAYS\L:freetext
+Free Text:LEMG TAXIWAYS\L1:freetext
+Free Text:LEMG TAXIWAYS\L2:freetext
+Free Text:LEMG TAXIWAYS\L3:freetext
+Free Text:LEMG TAXIWAYS\Q:freetext
+Free Text:LEMG TAXIWAYS\Q1:freetext
+Free Text:LEMG TAXIWAYS\R1A:freetext
+Free Text:LEMG TAXIWAYS\R1B:freetext
+Free Text:LEMG TAXIWAYS\R1C:freetext
+Free Text:LEMG TAXIWAYS\R1D:freetext
+Free Text:LEMG TAXIWAYS\R1E:freetext
+Free Text:LEMG TAXIWAYS\R1F:freetext
+Free Text:LEMG TAXIWAYS\R9A:freetext
+Free Text:LEMG TAXIWAYS\R9B:freetext
+Free Text:LEMG TAXIWAYS\R9C:freetext
+Geo:LEMG Groundlayout GND:
+Geo:LEMG Groundlayout STANDS:
+Geo:LEMG Groundlayout TAXILINES:
+Geo:LEMG MRVA:
+Runways:LEMG 12-30:name
+Runways:LEMG 13-31:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - TWR
+WINDOWAREA:36.665060:-4.531033:36.690026:-4.469598
+PLUGIN:Ground Radar plugin:AirportElevation:52
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEMG
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:763
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:96
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:251
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:145
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:493
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEMG
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1892
+PLUGIN:vSMR:SRW1BottomRightY:954
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1492
+PLUGIN:vSMR:SRW1TopLeftY:654
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

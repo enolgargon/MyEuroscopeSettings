@@ -1,0 +1,538 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GEML:name
+Airports:GEML:symbol
+Airports:LEAA:name
+Airports:LEAA:symbol
+Airports:LEAB:name
+Airports:LEAB:symbol
+Airports:LEAD:name
+Airports:LEAD:symbol
+Airports:LEAE:name
+Airports:LEAE:symbol
+Airports:LEAG:name
+Airports:LEAG:symbol
+Airports:LEAH:name
+Airports:LEAH:symbol
+Airports:LEAJ:name
+Airports:LEAJ:symbol
+Airports:LEAM:name
+Airports:LEAM:symbol
+Airports:LEAO:name
+Airports:LEAO:symbol
+Airports:LEAS:name
+Airports:LEAS:symbol
+Airports:LEAT:name
+Airports:LEAT:symbol
+Airports:LEAX:name
+Airports:LEAX:symbol
+Airports:LEAY:name
+Airports:LEAY:symbol
+Airports:LEAZ:name
+Airports:LEAZ:symbol
+Airports:LEBA:name
+Airports:LEBA:symbol
+Airports:LEBB:name
+Airports:LEBB:symbol
+Airports:LEBD:name
+Airports:LEBD:symbol
+Airports:LEBE:name
+Airports:LEBE:symbol
+Airports:LEBF:name
+Airports:LEBF:symbol
+Airports:LEBG:name
+Airports:LEBG:symbol
+Airports:LEBH:name
+Airports:LEBH:symbol
+Airports:LEBI:name
+Airports:LEBI:symbol
+Airports:LEBO:name
+Airports:LEBO:symbol
+Airports:LEBU:name
+Airports:LEBU:symbol
+Airports:LEBV:name
+Airports:LEBV:symbol
+Airports:LEBZ:name
+Airports:LEBZ:symbol
+Airports:LECA:name
+Airports:LECA:symbol
+Airports:LECI:name
+Airports:LECI:symbol
+Airports:LECJ:name
+Airports:LECJ:symbol
+Airports:LECO:name
+Airports:LECO:symbol
+Airports:LECT:name
+Airports:LECT:symbol
+Airports:LECU:name
+Airports:LECU:symbol
+Airports:LECV:name
+Airports:LECV:symbol
+Airports:LEDE:name
+Airports:LEDE:symbol
+Airports:LEDG:name
+Airports:LEDG:symbol
+Airports:LEDO:name
+Airports:LEDO:symbol
+Airports:LEDR:name
+Airports:LEDR:symbol
+Airports:LEDU:name
+Airports:LEDU:symbol
+Airports:LEDV:name
+Airports:LEDV:symbol
+Airports:LEEB:name
+Airports:LEEB:symbol
+Airports:LEEC:name
+Airports:LEEC:symbol
+Airports:LEEI:name
+Airports:LEEI:symbol
+Airports:LEEL:name
+Airports:LEEL:symbol
+Airports:LEEM:name
+Airports:LEEM:symbol
+Airports:LEER:name
+Airports:LEER:symbol
+Airports:LEES:name
+Airports:LEES:symbol
+Airports:LEET:name
+Airports:LEET:symbol
+Airports:LEEV:name
+Airports:LEEV:symbol
+Airports:LEEX:name
+Airports:LEEX:symbol
+Airports:LEFI:name
+Airports:LEFI:symbol
+Airports:LEFM:name
+Airports:LEFM:symbol
+Airports:LEGA:name
+Airports:LEGA:symbol
+Airports:LEGC:name
+Airports:LEGC:symbol
+Airports:LEGD:name
+Airports:LEGD:symbol
+Airports:LEGH:name
+Airports:LEGH:symbol
+Airports:LEGM:name
+Airports:LEGM:symbol
+Airports:LEGO:name
+Airports:LEGO:symbol
+Airports:LEGP:name
+Airports:LEGP:symbol
+Airports:LEGR:name
+Airports:LEGR:symbol
+Airports:LEGT:name
+Airports:LEGT:symbol
+Airports:LEGU:name
+Airports:LEGU:symbol
+Airports:LEGY:name
+Airports:LEGY:symbol
+Airports:LEHA:name
+Airports:LEHA:symbol
+Airports:LEHC:name
+Airports:LEHC:symbol
+Airports:LEHE:name
+Airports:LEHE:symbol
+Airports:LEHH:name
+Airports:LEHH:symbol
+Airports:LEHO:name
+Airports:LEHO:symbol
+Airports:LEHS:name
+Airports:LEHS:symbol
+Airports:LEHT:name
+Airports:LEHT:symbol
+Airports:LEHU:name
+Airports:LEHU:symbol
+Airports:LEHV:name
+Airports:LEHV:symbol
+Airports:LEHY:name
+Airports:LEHY:symbol
+Airports:LEIA:name
+Airports:LEIA:symbol
+Airports:LEIC:name
+Airports:LEIC:symbol
+Airports:LEIL:name
+Airports:LEIL:symbol
+Airports:LEIN:name
+Airports:LEIN:symbol
+Airports:LEIR:name
+Airports:LEIR:symbol
+Airports:LEIT:name
+Airports:LEIT:symbol
+Airports:LEIU:name
+Airports:LEIU:symbol
+Airports:LEIZ:name
+Airports:LEIZ:symbol
+Airports:LEJA:name
+Airports:LEJA:symbol
+Airports:LEJE:name
+Airports:LEJE:symbol
+Airports:LEJI:name
+Airports:LEJI:symbol
+Airports:LEJR:name
+Airports:LEJR:symbol
+Airports:LEJU:name
+Airports:LEJU:symbol
+Airports:LELA:name
+Airports:LELA:symbol
+Airports:LELB:name
+Airports:LELB:symbol
+Airports:LELC:name
+Airports:LELC:symbol
+Airports:LELE:name
+Airports:LELE:symbol
+Airports:LELI:name
+Airports:LELI:symbol
+Airports:LELN:name
+Airports:LELN:symbol
+Airports:LELO:name
+Airports:LELO:symbol
+Airports:LELR:name
+Airports:LELR:symbol
+Airports:LELS:name
+Airports:LELS:symbol
+Airports:LELT:name
+Airports:LELT:symbol
+Airports:LELU:name
+Airports:LELU:symbol
+Airports:LELV:name
+Airports:LELV:symbol
+Airports:LEMB:name
+Airports:LEMB:symbol
+Airports:LEMD:name
+Airports:LEMD:symbol
+Airports:LEMF:name
+Airports:LEMF:symbol
+Airports:LEMI:name
+Airports:LEMI:symbol
+Airports:LEMO:name
+Airports:LEMO:symbol
+Airports:LEMR:name
+Airports:LEMR:symbol
+Airports:LEMT:name
+Airports:LEMT:symbol
+Airports:LEMX:name
+Airports:LEMX:symbol
+Airports:LEMY:name
+Airports:LEMY:symbol
+Airports:LEMZ:name
+Airports:LEMZ:symbol
+Airports:LENA:name
+Airports:LENA:symbol
+Airports:LENG:name
+Airports:LENG:symbol
+Airports:LENT:name
+Airports:LENT:symbol
+Airports:LENU:name
+Airports:LENU:symbol
+Airports:LENV:name
+Airports:LENV:symbol
+Airports:LEOC:name
+Airports:LEOC:symbol
+Airports:LEOS:name
+Airports:LEOS:symbol
+Airports:LEOT:name
+Airports:LEOT:symbol
+Airports:LEPC:name
+Airports:LEPC:symbol
+Airports:LEPD:name
+Airports:LEPD:symbol
+Airports:LEPF:name
+Airports:LEPF:symbol
+Airports:LEPH:name
+Airports:LEPH:symbol
+Airports:LEPI:name
+Airports:LEPI:symbol
+Airports:LEPJ:name
+Airports:LEPJ:symbol
+Airports:LEPL:name
+Airports:LEPL:symbol
+Airports:LEPP:name
+Airports:LEPP:symbol
+Airports:LEPR:name
+Airports:LEPR:symbol
+Airports:LEPU:name
+Airports:LEPU:symbol
+Airports:LEPV:name
+Airports:LEPV:symbol
+Airports:LEQE:name
+Airports:LEQE:symbol
+Airports:LEQU:name
+Airports:LEQU:symbol
+Airports:LERB:name
+Airports:LERB:symbol
+Airports:LERJ:name
+Airports:LERJ:symbol
+Airports:LERL:name
+Airports:LERL:symbol
+Airports:LERM:name
+Airports:LERM:symbol
+Airports:LERO:name
+Airports:LERO:symbol
+Airports:LERR:name
+Airports:LERR:symbol
+Airports:LERT:name
+Airports:LERT:symbol
+Airports:LERU:name
+Airports:LERU:symbol
+Airports:LERY:name
+Airports:LERY:symbol
+Airports:LESA:name
+Airports:LESA:symbol
+Airports:LESE:name
+Airports:LESE:symbol
+Airports:LESI:name
+Airports:LESI:symbol
+Airports:LESN:name
+Airports:LESN:symbol
+Airports:LESO:name
+Airports:LESO:symbol
+Airports:LESR:name
+Airports:LESR:symbol
+Airports:LESS:name
+Airports:LESS:symbol
+Airports:LEST:name
+Airports:LEST:symbol
+Airports:LESZ:name
+Airports:LESZ:symbol
+Airports:LETB:name
+Airports:LETB:symbol
+Airports:LETC:name
+Airports:LETC:symbol
+Airports:LETE:name
+Airports:LETE:symbol
+Airports:LETF:name
+Airports:LETF:symbol
+Airports:LETG:name
+Airports:LETG:symbol
+Airports:LETI:name
+Airports:LETI:symbol
+Airports:LETJ:name
+Airports:LETJ:symbol
+Airports:LETL:name
+Airports:LETL:symbol
+Airports:LETN:name
+Airports:LETN:symbol
+Airports:LETO:name
+Airports:LETO:symbol
+Airports:LETP:name
+Airports:LETP:symbol
+Airports:LETS:name
+Airports:LETS:symbol
+Airports:LETT:name
+Airports:LETT:symbol
+Airports:LETU:name
+Airports:LETU:symbol
+Airports:LETZ:name
+Airports:LETZ:symbol
+Airports:LEUA:name
+Airports:LEUA:symbol
+Airports:LEUE:name
+Airports:LEUE:symbol
+Airports:LEUN:name
+Airports:LEUN:symbol
+Airports:LEUS:name
+Airports:LEUS:symbol
+Airports:LEUT:name
+Airports:LEUT:symbol
+Airports:LEVB:name
+Airports:LEVB:symbol
+Airports:LEVD:name
+Airports:LEVD:symbol
+Airports:LEVE:name
+Airports:LEVE:symbol
+Airports:LEVF:name
+Airports:LEVF:symbol
+Airports:LEVI:name
+Airports:LEVI:symbol
+Airports:LEVO:name
+Airports:LEVO:symbol
+Airports:LEVS:name
+Airports:LEVS:symbol
+Airports:LEVT:name
+Airports:LEVT:symbol
+Airports:LEVV:name
+Airports:LEVV:symbol
+Airports:LEVX:name
+Airports:LEVX:symbol
+Airports:LEXJ:name
+Airports:LEXJ:symbol
+Airports:LEXN:name
+Airports:LEXN:symbol
+Airports:LEXO:name
+Airports:LEXO:symbol
+Airports:LEXU:name
+Airports:LEXU:symbol
+Airports:LEZA:name
+Airports:LEZA:symbol
+Airports:LEZG:name
+Airports:LEZG:symbol
+Airports:LEZL:name
+Airports:LEZL:symbol
+Airports:LEZO:name
+Airports:LEZO:symbol
+Airports:LEZU:name
+Airports:LEZU:symbol
+Airports:LFBZ:name
+Airports:LFBZ:symbol
+Airports:LPBJ:name
+Airports:LPBJ:symbol
+ARTCC high boundary:AoR CTR LECS SEVILLA CONTROL:
+ARTCC high boundary:TMA LEZL SEVILLA:
+ARTCC low boundary:Tower CTR LEMG ATZ:
+ARTCC low boundary:Tower CTR LEMG CTR:
+Fixes:ALORA:name
+Fixes:ALORA:symbol
+Fixes:BAENA:name
+Fixes:BAENA:symbol
+Fixes:BALPO:name
+Fixes:BALPO:symbol
+Fixes:BOLKA:name
+Fixes:BOLKA:symbol
+Fixes:EPATA:name
+Fixes:EPATA:symbol
+Fixes:ETROV:name
+Fixes:ETROV:symbol
+Fixes:GONZA:name
+Fixes:GONZA:symbol
+Fixes:INKAL:name
+Fixes:INKAL:symbol
+Fixes:KURET:name
+Fixes:KURET:symbol
+Fixes:MOSUK:name
+Fixes:MOSUK:symbol
+Fixes:NEPUR:name
+Fixes:NEPUR:symbol
+Fixes:NESDA:name
+Fixes:NESDA:symbol
+Fixes:OMIGO:name
+Fixes:OMIGO:symbol
+Fixes:PEKOP:name
+Fixes:PEKOP:symbol
+Fixes:PIMOS:name
+Fixes:PIMOS:symbol
+Fixes:PISAV:name
+Fixes:PISAV:symbol
+Fixes:ROLAS:name
+Fixes:ROLAS:symbol
+Fixes:TOLSU:name
+Fixes:TOLSU:symbol
+Fixes:VIBAS:name
+Fixes:VIBAS:symbol
+Fixes:VULPE:name
+Fixes:VULPE:symbol
+Free Text:LEMG ATCSMAC\13500:freetext
+Free Text:LEMG ATCSMAC\2000:freetext
+Free Text:LEMG ATCSMAC\2000:freetext
+Free Text:LEMG ATCSMAC\4000:freetext
+Free Text:LEMG ATCSMAC\4000:freetext
+Free Text:LEMG ATCSMAC\5500:freetext
+Free Text:LEMG ATCSMAC\5500:freetext
+Free Text:LEMG ATCSMAC\5500:freetext
+Free Text:LEMG ATCSMAC\5700:freetext
+Free Text:LEMG ATCSMAC\7000:freetext
+Free Text:LEMG ATCSMAC\7000:freetext
+Free Text:LEMG ATCSMAC\7000:freetext
+Free Text:LEMG ATCSMAC\7500:freetext
+Free Text:LEMG ATCSMAC\8500:freetext
+Free Text:LEMG ATCSMAC\9000:freetext
+Free Text:LEMG ATCSMAC\9000:freetext
+Geo:LECM Landmark Border Algerie - Morocco:
+Geo:LECM Landmark Border Morocco - Ceuta:
+Geo:LECM Landmark Border Morocco - Melilla:
+Geo:LECM Landmark Border Portugal - Spain:
+Geo:LECM Landmark Coastline Algerie and Morocco:
+Geo:LECM Landmark Coastline Portugal:
+Geo:LECM Landmark Coastline Sur de España:
+Geo:LECM Landmark Gibraltar:
+Geo:LEMG MRVA:
+NDBs:GM:frequency
+NDBs:GM:name
+NDBs:GM:symbol
+Runways:LEMG 12-30:extended centerline 1
+Runways:LEMG 12-30:extended centerline 1 left ticks
+Runways:LEMG 12-30:extended centerline 1 right ticks
+Runways:LEMG 12-30:extended centerline 2
+Runways:LEMG 12-30:extended centerline 2 left ticks
+Runways:LEMG 12-30:extended centerline 2 right ticks
+Runways:LEMG 13-31:extended centerline 1
+Runways:LEMG 13-31:extended centerline 1 left ticks
+Runways:LEMG 13-31:extended centerline 1 right ticks
+Runways:LEMG 13-31:extended centerline 2
+Runways:LEMG 13-31:extended centerline 2 left ticks
+Runways:LEMG 13-31:extended centerline 2 right ticks
+VORs:BLN:frequency
+VORs:BLN:name
+VORs:BLN:symbol
+VORs:GDA:frequency
+VORs:GDA:name
+VORs:GDA:symbol
+VORs:JRZ:frequency
+VORs:JRZ:name
+VORs:JRZ:symbol
+VORs:MAR:frequency
+VORs:MAR:name
+VORs:MAR:symbol
+VORs:MGA:frequency
+VORs:MGA:name
+VORs:MGA:symbol
+VORs:SVL:frequency
+VORs:SVL:name
+VORs:SVL:symbol
+VORs:VJF:frequency
+VORs:VJF:name
+VORs:VJF:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - ENR/APP
+WINDOWAREA:36.310572:-6.037152:37.520805:-3.059032
+PLUGIN:Final Count Down:FCDSHOW:TRUE
+PLUGIN:Final Count Down:FCDXPOS:1481
+PLUGIN:Final Count Down:FCDYPOS:1009
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:78
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:681
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:706
+PLUGIN:Virtual Controller Assistant:CDYPOS:29
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

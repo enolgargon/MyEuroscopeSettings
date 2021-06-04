@@ -1,0 +1,232 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LEVC GND\GT.A:freetext
+Free Text:LEVC GND\GT.B:freetext
+Free Text:LEVC GND\GT.C:freetext
+Free Text:LEVC GND\GT.D:freetext
+Free Text:LEVC GND\GT.E:freetext
+Free Text:LEVC GND\GT.F:freetext
+Free Text:LEVC GND\GT.J:freetext
+Free Text:LEVC GND\H1:freetext
+Free Text:LEVC GND\H2:freetext
+Free Text:LEVC GND\H3:freetext
+Free Text:LEVC GND\H4:freetext
+Free Text:LEVC GND\H5:freetext
+Free Text:LEVC GND\H6:freetext
+Free Text:LEVC GND\H7:freetext
+Free Text:LEVC GND\H8:freetext
+Free Text:LEVC GND\H9:freetext
+Free Text:LEVC GND\M1:freetext
+Free Text:LEVC GND\M2:freetext
+Free Text:LEVC GND\N1:freetext
+Free Text:LEVC GND\N2:freetext
+Free Text:LEVC GND\N3:freetext
+Free Text:LEVC GND\N4:freetext
+Free Text:LEVC GND\S1:freetext
+Free Text:LEVC GND\S2:freetext
+Free Text:LEVC GND\S3:freetext
+Free Text:LEVC GND\S4:freetext
+Free Text:LEVC GND\T1:freetext
+Free Text:LEVC GND\T2:freetext
+Free Text:LEVC GND\T3:freetext
+Free Text:LEVC GND\T4:freetext
+Free Text:LEVC GND\W1:freetext
+Free Text:LEVC GND\W11:freetext
+Free Text:LEVC GND\W12:freetext
+Free Text:LEVC GND\W13:freetext
+Free Text:LEVC GND\W14:freetext
+Free Text:LEVC GND\W15:freetext
+Free Text:LEVC GND\W15:freetext
+Free Text:LEVC GND\W16:freetext
+Free Text:LEVC GND\W2:freetext
+Free Text:LEVC GND\W3:freetext
+Free Text:LEVC GND\W4:freetext
+Free Text:LEVC GND\W5:freetext
+Free Text:LEVC GND\W6:freetext
+Free Text:LEVC GND\Y1:freetext
+Free Text:LEVC GND\Y2:freetext
+Free Text:LEVC STANDS\1:freetext
+Free Text:LEVC STANDS\10:freetext
+Free Text:LEVC STANDS\101:freetext
+Free Text:LEVC STANDS\102:freetext
+Free Text:LEVC STANDS\103:freetext
+Free Text:LEVC STANDS\104:freetext
+Free Text:LEVC STANDS\105:freetext
+Free Text:LEVC STANDS\106:freetext
+Free Text:LEVC STANDS\107:freetext
+Free Text:LEVC STANDS\108:freetext
+Free Text:LEVC STANDS\10X:freetext
+Free Text:LEVC STANDS\11:freetext
+Free Text:LEVC STANDS\11X:freetext
+Free Text:LEVC STANDS\12:freetext
+Free Text:LEVC STANDS\125:freetext
+Free Text:LEVC STANDS\126:freetext
+Free Text:LEVC STANDS\127:freetext
+Free Text:LEVC STANDS\128:freetext
+Free Text:LEVC STANDS\129:freetext
+Free Text:LEVC STANDS\12X:freetext
+Free Text:LEVC STANDS\130:freetext
+Free Text:LEVC STANDS\131:freetext
+Free Text:LEVC STANDS\132:freetext
+Free Text:LEVC STANDS\133:freetext
+Free Text:LEVC STANDS\134:freetext
+Free Text:LEVC STANDS\135:freetext
+Free Text:LEVC STANDS\136:freetext
+Free Text:LEVC STANDS\137:freetext
+Free Text:LEVC STANDS\138:freetext
+Free Text:LEVC STANDS\139:freetext
+Free Text:LEVC STANDS\13X:freetext
+Free Text:LEVC STANDS\141:freetext
+Free Text:LEVC STANDS\142:freetext
+Free Text:LEVC STANDS\143:freetext
+Free Text:LEVC STANDS\144:freetext
+Free Text:LEVC STANDS\145:freetext
+Free Text:LEVC STANDS\146:freetext
+Free Text:LEVC STANDS\147:freetext
+Free Text:LEVC STANDS\148:freetext
+Free Text:LEVC STANDS\149:freetext
+Free Text:LEVC STANDS\14X:freetext
+Free Text:LEVC STANDS\151:freetext
+Free Text:LEVC STANDS\152:freetext
+Free Text:LEVC STANDS\153:freetext
+Free Text:LEVC STANDS\15X:freetext
+Free Text:LEVC STANDS\16X:freetext
+Free Text:LEVC STANDS\1X:freetext
+Free Text:LEVC STANDS\2:freetext
+Free Text:LEVC STANDS\201:freetext
+Free Text:LEVC STANDS\202:freetext
+Free Text:LEVC STANDS\203:freetext
+Free Text:LEVC STANDS\204:freetext
+Free Text:LEVC STANDS\205:freetext
+Free Text:LEVC STANDS\206:freetext
+Free Text:LEVC STANDS\207:freetext
+Free Text:LEVC STANDS\208:freetext
+Free Text:LEVC STANDS\209:freetext
+Free Text:LEVC STANDS\21:freetext
+Free Text:LEVC STANDS\210:freetext
+Free Text:LEVC STANDS\211:freetext
+Free Text:LEVC STANDS\212:freetext
+Free Text:LEVC STANDS\213:freetext
+Free Text:LEVC STANDS\214:freetext
+Free Text:LEVC STANDS\215:freetext
+Free Text:LEVC STANDS\216:freetext
+Free Text:LEVC STANDS\22:freetext
+Free Text:LEVC STANDS\23:freetext
+Free Text:LEVC STANDS\24:freetext
+Free Text:LEVC STANDS\25:freetext
+Free Text:LEVC STANDS\26:freetext
+Free Text:LEVC STANDS\27:freetext
+Free Text:LEVC STANDS\2X:freetext
+Free Text:LEVC STANDS\3:freetext
+Free Text:LEVC STANDS\32:freetext
+Free Text:LEVC STANDS\33:freetext
+Free Text:LEVC STANDS\34:freetext
+Free Text:LEVC STANDS\35:freetext
+Free Text:LEVC STANDS\36:freetext
+Free Text:LEVC STANDS\37:freetext
+Free Text:LEVC STANDS\3X:freetext
+Free Text:LEVC STANDS\4:freetext
+Free Text:LEVC STANDS\41:freetext
+Free Text:LEVC STANDS\42:freetext
+Free Text:LEVC STANDS\43:freetext
+Free Text:LEVC STANDS\44:freetext
+Free Text:LEVC STANDS\4X:freetext
+Free Text:LEVC STANDS\5:freetext
+Free Text:LEVC STANDS\51:freetext
+Free Text:LEVC STANDS\52:freetext
+Free Text:LEVC STANDS\53:freetext
+Free Text:LEVC STANDS\54:freetext
+Free Text:LEVC STANDS\55:freetext
+Free Text:LEVC STANDS\56:freetext
+Free Text:LEVC STANDS\57:freetext
+Free Text:LEVC STANDS\58:freetext
+Free Text:LEVC STANDS\59:freetext
+Free Text:LEVC STANDS\5X:freetext
+Free Text:LEVC STANDS\6:freetext
+Free Text:LEVC STANDS\60:freetext
+Free Text:LEVC STANDS\61:freetext
+Free Text:LEVC STANDS\6B:freetext
+Free Text:LEVC STANDS\6X:freetext
+Free Text:LEVC STANDS\7:freetext
+Free Text:LEVC STANDS\7A:freetext
+Free Text:LEVC STANDS\7X:freetext
+Free Text:LEVC STANDS\8:freetext
+Free Text:LEVC STANDS\8X:freetext
+Free Text:LEVC STANDS\9:freetext
+Free Text:LEVC STANDS\9X:freetext
+Free Text:LEVC STANDS\BT5:freetext
+Free Text:LEVC STANDS\C1:freetext
+Free Text:LEVC STANDS\C2:freetext
+Geo:LEVC Groundlayout GND:
+Geo:LEVC Groundlayout PARKINGS:
+Geo:LEVC Groundlayout TAXILINES:
+Geo:LEVC MRVA:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:39.469127:-0.521829:39.508490:-0.424965
+PLUGIN:Ground Radar plugin:AirportElevation:60
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEVC
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:811
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:73
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:421
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:74
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:396
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEVC
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1897
+PLUGIN:vSMR:SRW1BottomRightY:941
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-99
+PLUGIN:vSMR:SRW1OffsetY:-13
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1497
+PLUGIN:vSMR:SRW1TopLeftY:641
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

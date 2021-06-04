@@ -1,0 +1,192 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LEIB GND\A:freetext
+Free Text:LEIB GND\B:freetext
+Free Text:LEIB GND\C:freetext
+Free Text:LEIB GND\C:freetext
+Free Text:LEIB GND\C:freetext
+Free Text:LEIB GND\C:freetext
+Free Text:LEIB GND\D:freetext
+Free Text:LEIB GND\E:freetext
+Free Text:LEIB GND\E2:freetext
+Free Text:LEIB GND\F:freetext
+Free Text:LEIB GND\F2:freetext
+Free Text:LEIB GND\G:freetext
+Free Text:LEIB GND\H1:freetext
+Free Text:LEIB GND\H2:freetext
+Free Text:LEIB GND\H3:freetext
+Free Text:LEIB GND\H4:freetext
+Free Text:LEIB GND\J:freetext
+Free Text:LEIB GND\Y1:freetext
+Free Text:LEIB GND\Y2:freetext
+Free Text:LEIB GND\Y3:freetext
+Free Text:LEIB GND\Y4:freetext
+Free Text:LEIB GND\Z1:freetext
+Free Text:LEIB GND\Z2:freetext
+Free Text:LEIB STANDS\10:freetext
+Free Text:LEIB STANDS\100N:freetext
+Free Text:LEIB STANDS\101N:freetext
+Free Text:LEIB STANDS\102N:freetext
+Free Text:LEIB STANDS\103N:freetext
+Free Text:LEIB STANDS\104N:freetext
+Free Text:LEIB STANDS\105N:freetext
+Free Text:LEIB STANDS\11:freetext
+Free Text:LEIB STANDS\12:freetext
+Free Text:LEIB STANDS\13:freetext
+Free Text:LEIB STANDS\14:freetext
+Free Text:LEIB STANDS\15:freetext
+Free Text:LEIB STANDS\16:freetext
+Free Text:LEIB STANDS\17:freetext
+Free Text:LEIB STANDS\18:freetext
+Free Text:LEIB STANDS\19:freetext
+Free Text:LEIB STANDS\19A:freetext
+Free Text:LEIB STANDS\19B:freetext
+Free Text:LEIB STANDS\1X:freetext
+Free Text:LEIB STANDS\20:freetext
+Free Text:LEIB STANDS\20A:freetext
+Free Text:LEIB STANDS\20B:freetext
+Free Text:LEIB STANDS\21:freetext
+Free Text:LEIB STANDS\22:freetext
+Free Text:LEIB STANDS\23:freetext
+Free Text:LEIB STANDS\24:freetext
+Free Text:LEIB STANDS\25:freetext
+Free Text:LEIB STANDS\25B:freetext
+Free Text:LEIB STANDS\26:freetext
+Free Text:LEIB STANDS\27:freetext
+Free Text:LEIB STANDS\28:freetext
+Free Text:LEIB STANDS\29:freetext
+Free Text:LEIB STANDS\2X:freetext
+Free Text:LEIB STANDS\30:freetext
+Free Text:LEIB STANDS\301:freetext
+Free Text:LEIB STANDS\302:freetext
+Free Text:LEIB STANDS\31:freetext
+Free Text:LEIB STANDS\32:freetext
+Free Text:LEIB STANDS\33:freetext
+Free Text:LEIB STANDS\34:freetext
+Free Text:LEIB STANDS\35:freetext
+Free Text:LEIB STANDS\36:freetext
+Free Text:LEIB STANDS\37:freetext
+Free Text:LEIB STANDS\3X:freetext
+Free Text:LEIB STANDS\52S:freetext
+Free Text:LEIB STANDS\53S:freetext
+Free Text:LEIB STANDS\54S:freetext
+Free Text:LEIB STANDS\55S:freetext
+Free Text:LEIB STANDS\56S:freetext
+Free Text:LEIB STANDS\57S:freetext
+Free Text:LEIB STANDS\58S:freetext
+Free Text:LEIB STANDS\59S:freetext
+Free Text:LEIB STANDS\60S:freetext
+Free Text:LEIB STANDS\61S:freetext
+Free Text:LEIB STANDS\62S:freetext
+Free Text:LEIB STANDS\63S:freetext
+Free Text:LEIB STANDS\64S:freetext
+Free Text:LEIB STANDS\65S:freetext
+Free Text:LEIB STANDS\66S:freetext
+Free Text:LEIB STANDS\67S:freetext
+Free Text:LEIB STANDS\68S:freetext
+Free Text:LEIB STANDS\69S:freetext
+Free Text:LEIB STANDS\7:freetext
+Free Text:LEIB STANDS\71M:freetext
+Free Text:LEIB STANDS\72M:freetext
+Free Text:LEIB STANDS\73M:freetext
+Free Text:LEIB STANDS\74M:freetext
+Free Text:LEIB STANDS\75M:freetext
+Free Text:LEIB STANDS\76M:freetext
+Free Text:LEIB STANDS\77M:freetext
+Free Text:LEIB STANDS\78M:freetext
+Free Text:LEIB STANDS\79M:freetext
+Free Text:LEIB STANDS\8:freetext
+Free Text:LEIB STANDS\80M:freetext
+Free Text:LEIB STANDS\81M:freetext
+Free Text:LEIB STANDS\82M:freetext
+Free Text:LEIB STANDS\83M:freetext
+Free Text:LEIB STANDS\84M:freetext
+Free Text:LEIB STANDS\85M:freetext
+Free Text:LEIB STANDS\86M:freetext
+Free Text:LEIB STANDS\87M:freetext
+Free Text:LEIB STANDS\88M:freetext
+Free Text:LEIB STANDS\89M:freetext
+Free Text:LEIB STANDS\9:freetext
+Free Text:LEIB STANDS\90N:freetext
+Free Text:LEIB STANDS\91N:freetext
+Free Text:LEIB STANDS\92N:freetext
+Free Text:LEIB STANDS\93N:freetext
+Free Text:LEIB STANDS\94N:freetext
+Free Text:LEIB STANDS\95N:freetext
+Free Text:LEIB STANDS\96N:freetext
+Free Text:LEIB STANDS\97N:freetext
+Free Text:LEIB STANDS\98N:freetext
+Free Text:LEIB STANDS\99N:freetext
+Geo:LEIB Groundlayout GND:
+Geo:LEIB Groundlayout STANDS:
+Geo:LEIB Groundlayout TAXILINES:
+Regions:LEIB Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:38.864390:1.348237:38.885152:1.399327
+PLUGIN:Ground Radar plugin:AirportElevation:24
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:LEIB
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:100
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:100
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LEIB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:2
+PLUGIN:vSMR:SRW1BottomRightX:1898
+PLUGIN:vSMR:SRW1BottomRightY:944
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-97
+PLUGIN:vSMR:SRW1OffsetY:54
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1498
+PLUGIN:vSMR:SRW1TopLeftY:644
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

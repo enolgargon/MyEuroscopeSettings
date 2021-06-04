@@ -1,0 +1,130 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:GCTS ATCSMAC\14500:freetext
+Free Text:GCTS ATCSMAC\2000:freetext
+Free Text:GCTS ATCSMAC\3000:freetext
+Free Text:GCTS ATCSMAC\5700:freetext
+Free Text:GCTS ATCSMAC\6000:freetext
+Free Text:GCTS ATCSMAC\7000:freetext
+Free Text:GCTS ATCSMAC\7000:freetext
+Free Text:GCTS ATCSMAC\8500:freetext
+Free Text:GCTS GND\A2-1:freetext
+Free Text:GCTS GND\A2-2:freetext
+Free Text:GCTS GND\B0:freetext
+Free Text:GCTS GND\B1:freetext
+Free Text:GCTS GND\B2:freetext
+Free Text:GCTS GND\B3:freetext
+Free Text:GCTS GND\B4:freetext
+Free Text:GCTS GND\B5:freetext
+Free Text:GCTS GND\B6:freetext
+Free Text:GCTS GND\B7:freetext
+Free Text:GCTS GND\D1:freetext
+Free Text:GCTS GND\D2:freetext
+Free Text:GCTS GND\D3:freetext
+Free Text:GCTS GND\D4:freetext
+Free Text:GCTS GND\D5:freetext
+Free Text:GCTS GND\D6:freetext
+Free Text:GCTS GND\T:freetext
+Free Text:GCTS STANDS\AG1:freetext
+Free Text:GCTS STANDS\AG2:freetext
+Free Text:GCTS STANDS\AG21:freetext
+Free Text:GCTS STANDS\AG3:freetext
+Free Text:GCTS STANDS\AG4:freetext
+Free Text:GCTS STANDS\AG5:freetext
+Free Text:GCTS STANDS\E49:freetext
+Free Text:GCTS STANDS\E50:freetext
+Free Text:GCTS STANDS\E51:freetext
+Free Text:GCTS STANDS\E52:freetext
+Free Text:GCTS STANDS\E53:freetext
+Free Text:GCTS STANDS\E54:freetext
+Free Text:GCTS STANDS\E55:freetext
+Free Text:GCTS STANDS\E56:freetext
+Free Text:GCTS STANDS\E57:freetext
+Free Text:GCTS STANDS\E58:freetext
+Free Text:GCTS STANDS\E59:freetext
+Free Text:GCTS STANDS\E60:freetext
+Free Text:GCTS STANDS\E61:freetext
+Free Text:GCTS STANDS\E62:freetext
+Free Text:GCTS STANDS\E63:freetext
+Free Text:GCTS STANDS\E64:freetext
+Free Text:GCTS STANDS\E65:freetext
+Free Text:GCTS STANDS\E66:freetext
+Free Text:GCTS STANDS\E67:freetext
+Free Text:GCTS STANDS\E68:freetext
+Free Text:GCTS STANDS\E69:freetext
+Free Text:GCTS STANDS\E70:freetext
+Free Text:GCTS STANDS\G2:freetext
+Free Text:GCTS STANDS\G20:freetext
+Free Text:GCTS STANDS\G23:freetext
+Free Text:GCTS STANDS\G25:freetext
+Free Text:GCTS STANDS\G35:freetext
+Free Text:GCTS STANDS\G35A:freetext
+Free Text:GCTS STANDS\G36:freetext
+Free Text:GCTS STANDS\G36A:freetext
+Free Text:GCTS STANDS\G4:freetext
+Free Text:GCTS STANDS\G48:freetext
+Free Text:GCTS STANDS\G6:freetext
+Free Text:GCTS STANDS\H37:freetext
+Free Text:GCTS STANDS\H37A:freetext
+Free Text:GCTS STANDS\H38:freetext
+Free Text:GCTS STANDS\H39:freetext
+Free Text:GCTS STANDS\H43:freetext
+Free Text:GCTS STANDS\H44:freetext
+Free Text:GCTS STANDS\H46:freetext
+Free Text:GCTS STANDS\J1:freetext
+Free Text:GCTS STANDS\J22:freetext
+Free Text:GCTS STANDS\J24:freetext
+Free Text:GCTS STANDS\J3:freetext
+Free Text:GCTS STANDS\J5:freetext
+Free Text:GCTS STANDS\J7:freetext
+Free Text:GCTS STANDS\J8:freetext
+Free Text:GCTS STANDS\R19:freetext
+Free Text:GCTS STANDS\R40:freetext
+Free Text:GCTS STANDS\R42:freetext
+Free Text:GCTS STANDS\R45:freetext
+Free Text:GCTS STANDS\R47:freetext
+Free Text:GCTS STANDS\R5A:freetext
+Free Text:GCTS STANDS\S41:freetext
+Free Text:GCTS VFR\E:freetext
+Free Text:GCTS VFR\N:freetext
+Free Text:GCTS VFR\S:freetext
+Free Text:GCTS VFR\W:freetext
+Geo:GCCC Landmark Coastline Canary Islands:
+Geo:GCTS Groundlayout GND:
+Geo:GCTS Groundlayout STANDS:
+Geo:GCTS Groundlayout TAXILINES:
+Geo:GCTS MRVA:
+Regions:GCTS Ground Layout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:28.031949:-16.603321:28.056755:-16.550052
+PLUGIN:Ground Radar plugin:AirportElevation:209
+PLUGIN:Ground Radar plugin:AirportRadius:1.1
+PLUGIN:Ground Radar plugin:GroundMode:GCTS
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:1515
+PLUGIN:Virtual Controller Assistant:CDYPOS:24
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:20
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:16777215
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:0
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:1

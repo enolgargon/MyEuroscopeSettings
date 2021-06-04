@@ -1,0 +1,875 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GEML:name
+Airports:LEAA:name
+Airports:LEAB:name
+Airports:LEAD:name
+Airports:LEAE:name
+Airports:LEAG:name
+Airports:LEAH:name
+Airports:LEAJ:name
+Airports:LEAM:name
+Airports:LEAO:name
+Airports:LEAS:name
+Airports:LEAS:symbol
+Airports:LEAT:name
+Airports:LEAX:name
+Airports:LEAY:name
+Airports:LEAZ:name
+Airports:LEBA:name
+Airports:LEBB:name
+Airports:LEBD:name
+Airports:LEBE:name
+Airports:LEBF:name
+Airports:LEBG:name
+Airports:LEBH:name
+Airports:LEBI:name
+Airports:LEBO:name
+Airports:LEBU:name
+Airports:LEBV:name
+Airports:LEBZ:name
+Airports:LECA:name
+Airports:LECI:name
+Airports:LECJ:name
+Airports:LECO:name
+Airports:LECT:name
+Airports:LECU:name
+Airports:LECV:name
+Airports:LEDE:name
+Airports:LEDG:name
+Airports:LEDO:name
+Airports:LEDR:name
+Airports:LEDU:name
+Airports:LEDV:name
+Airports:LEEB:name
+Airports:LEEC:name
+Airports:LEEI:name
+Airports:LEEL:name
+Airports:LEEM:name
+Airports:LEER:name
+Airports:LEES:name
+Airports:LEET:name
+Airports:LEEV:name
+Airports:LEEX:name
+Airports:LEFI:name
+Airports:LEFM:name
+Airports:LEGA:name
+Airports:LEGC:name
+Airports:LEGD:name
+Airports:LEGH:name
+Airports:LEGM:name
+Airports:LEGO:name
+Airports:LEGP:name
+Airports:LEGR:name
+Airports:LEGT:name
+Airports:LEGU:name
+Airports:LEGY:name
+Airports:LEHA:name
+Airports:LEHC:name
+Airports:LEHE:name
+Airports:LEHH:name
+Airports:LEHO:name
+Airports:LEHS:name
+Airports:LEHT:name
+Airports:LEHU:name
+Airports:LEHV:name
+Airports:LEHY:name
+Airports:LEIA:name
+Airports:LEIC:name
+Airports:LEIL:name
+Airports:LEIN:name
+Airports:LEIR:name
+Airports:LEIT:name
+Airports:LEIU:name
+Airports:LEIZ:name
+Airports:LEJA:name
+Airports:LEJE:name
+Airports:LEJI:name
+Airports:LEJR:name
+Airports:LEJU:name
+Airports:LELA:name
+Airports:LELB:name
+Airports:LELC:name
+Airports:LELE:name
+Airports:LELI:name
+Airports:LELN:name
+Airports:LELO:name
+Airports:LELR:name
+Airports:LELS:name
+Airports:LELT:name
+Airports:LELU:name
+Airports:LELV:name
+Airports:LEMB:name
+Airports:LEMD:name
+Airports:LEMF:name
+Airports:LEMG:name
+Airports:LEMI:name
+Airports:LEMO:name
+Airports:LEMR:name
+Airports:LEMT:name
+Airports:LEMX:name
+Airports:LEMY:name
+Airports:LEMZ:name
+Airports:LENA:name
+Airports:LENG:name
+Airports:LENT:name
+Airports:LENU:name
+Airports:LENV:name
+Airports:LEOC:name
+Airports:LEOS:name
+Airports:LEOT:name
+Airports:LEPC:name
+Airports:LEPD:name
+Airports:LEPF:name
+Airports:LEPH:name
+Airports:LEPI:name
+Airports:LEPJ:name
+Airports:LEPL:name
+Airports:LEPP:name
+Airports:LEPR:name
+Airports:LEPU:name
+Airports:LEPV:name
+Airports:LEQE:name
+Airports:LEQU:name
+Airports:LERB:name
+Airports:LERJ:name
+Airports:LERL:name
+Airports:LERM:name
+Airports:LERO:name
+Airports:LERR:name
+Airports:LERT:name
+Airports:LERU:name
+Airports:LERY:name
+Airports:LESA:name
+Airports:LESE:name
+Airports:LESI:name
+Airports:LESN:name
+Airports:LESO:name
+Airports:LESR:name
+Airports:LESS:name
+Airports:LEST:name
+Airports:LESZ:name
+Airports:LETB:name
+Airports:LETC:name
+Airports:LETE:name
+Airports:LETF:name
+Airports:LETG:name
+Airports:LETI:name
+Airports:LETJ:name
+Airports:LETL:name
+Airports:LETN:name
+Airports:LETO:name
+Airports:LETP:name
+Airports:LETS:name
+Airports:LETT:name
+Airports:LETU:name
+Airports:LETZ:name
+Airports:LEUA:name
+Airports:LEUE:name
+Airports:LEUN:name
+Airports:LEUS:name
+Airports:LEUT:name
+Airports:LEVB:name
+Airports:LEVD:name
+Airports:LEVE:name
+Airports:LEVF:name
+Airports:LEVI:name
+Airports:LEVO:name
+Airports:LEVS:name
+Airports:LEVT:name
+Airports:LEVV:name
+Airports:LEVX:name
+Airports:LEXJ:name
+Airports:LEXN:name
+Airports:LEXO:name
+Airports:LEXU:name
+Airports:LEZA:name
+Airports:LEZG:name
+Airports:LEZL:name
+Airports:LEZO:name
+Airports:LEZU:name
+Airports:LFBZ:name
+Airports:LPBJ:name
+ARTCC boundary:Danger area LECM LED1 CERRO MURCIANO:
+ARTCC boundary:Danger area LECM LED10 CASTRILLO DEL VAL:
+ARTCC boundary:Danger area LECM LED100 ROTA HEL:
+ARTCC boundary:Danger area LECM LED104 TERUEL:
+ARTCC boundary:Danger area LECM LED119 ARENOSILLO NORTE SUPERIOR:
+ARTCC boundary:Danger area LECM LED120 ARENOSILLO NORTE INFERIOR ESTE:
+ARTCC boundary:Danger area LECM LED121 ARENOSILLO NORTE INFERIOR OESTE:
+ARTCC boundary:Danger area LECM LED122 ARENOSILLO SUR:
+ARTCC boundary:Danger area LECM LED123 EL ANDEVALO INFERIOR:
+ARTCC boundary:Danger area LECM LED124 EL ANDEVALO SUPERIOR:
+ARTCC boundary:Danger area LECM LED125 SIERRA DE GUADALUPE INFERIOR:
+ARTCC boundary:Danger area LECM LED126 SIERRA DE GUADALUPE SUPERIOR:
+ARTCC boundary:Danger area LECM LED128 ARENOSILLO ESTE:
+ARTCC boundary:Danger area LECM LED129 ARENOSILLO CENTRO:
+ARTCC boundary:Danger area LECM LED131 P.ALARCON INFERIOR:
+ARTCC boundary:Danger area LECM LED132 P.ALARCON SUPERIOR:
+ARTCC boundary:Danger area LECM LED14 RENEDO DE ESGUEVAS:
+ARTCC boundary:Danger area LECM LED165 ALBORAN INFERIOR:
+ARTCC boundary:Danger area LECM LED166 ALBORAN OESTE:
+ARTCC boundary:Danger area LECM LED167 ALBORAN CENTRO:
+ARTCC boundary:Danger area LECM LED168 ALBORAN ESTE:
+ARTCC boundary:Danger area LECM LED169 ALBORAN SUPERIOR:
+ARTCC boundary:Danger area LECM LED17A:
+ARTCC boundary:Danger area LECM LED17B:
+ARTCC boundary:Danger area LECM LED17C:
+ARTCC boundary:Danger area LECM LED2 EL TELENO:
+ARTCC boundary:Danger area LECM LED22 MAZARRON:
+ARTCC boundary:Danger area LECM LED25 ALMARGO:
+ARTCC boundary:Danger area LECM LED27A EL COPERO:
+ARTCC boundary:Danger area LECM LED27B:
+ARTCC boundary:Danger area LECM LED35A CHINCHILLA:
+ARTCC boundary:Danger area LECM LED35B:
+ARTCC boundary:Danger area LECM LED36:
+ARTCC boundary:Danger area LECM LED4 ALIJARES:
+ARTCC boundary:Danger area LECM LED40 ALPEDRETE DE LA SIERRA:
+ARTCC boundary:Danger area LECM LED41 CASAS DE UCEDA:
+ARTCC boundary:Danger area LECM LED47A ZARAGOZA:
+ARTCC boundary:Danger area LECM LED47B:
+ARTCC boundary:Danger area LECM LED50 BARDENAS:
+ARTCC boundary:Danger area LECM LED52A OCAÑA:
+ARTCC boundary:Danger area LECM LED52B:
+ARTCC boundary:Danger area LECM LED52C:
+ARTCC boundary:Danger area LECM LED55A TOLEDO:
+ARTCC boundary:Danger area LECM LED55B:
+ARTCC boundary:Danger area LECM LED6 BATERIAS:
+ARTCC boundary:Danger area LECM LED60 EL PALANCAR:
+ARTCC boundary:Danger area LECM LED7 EL FERRAL DE BERNESGA:
+ARTCC boundary:Danger area LECM LED70A SAN GREORIO:
+ARTCC boundary:Danger area LECM LED70B:
+ARTCC boundary:Danger area LECM LED70C:
+ARTCC boundary:Danger area LECM LED8 JAIZQUIBEL:
+ARTCC boundary:Danger area LECM LED80 GABEIRAS:
+ARTCC boundary:Danger area LECM LED81 SISARGAS:
+ARTCC boundary:Danger area LECM LED82 ONS:
+ARTCC boundary:Danger area LECM LED83 STA. CRUZ DE PARGA:
+ARTCC boundary:Danger area LECM LED90A GOLFO DE CADIZ:
+ARTCC boundary:Danger area LECM LED90B:
+ARTCC boundary:Danger area LECM LED90C:
+ARTCC boundary:Danger area LECM LED97A MURCIA:
+ARTCC boundary:Danger area LECM LED98 LA MANCHA:
+ARTCC boundary:Prohibited area LECM GMP21:
+ARTCC boundary:Prohibited area LECM LEP118 EL PLANTIO:
+ARTCC boundary:Restricted area LECM LER144 PARQUE NACIONAL DE PICOS DE EUROPA:
+ARTCC boundary:Restricted area LECM LER146 PAREQUE NACIONAL DE CABAÑEROS:
+ARTCC boundary:Restricted area LECM LER147 PARQUE NACIONAL DE LAS TABLAS DE DAIMIEL:
+ARTCC boundary:Restricted area LECM LER152/3 PARQUE NACIONAL DE ORDERSA Y MONTE PERDIDO:
+ARTCC boundary:Restricted area LECM LER154 PARQUE NACIONAL DE DOÑANA:
+ARTCC boundary:Restricted area LECM LER155 PARQUE NACIONAL DE SIERRA NEVADA:
+ARTCC boundary:Restricted area LECM LER164 ALGECIRAS:
+ARTCC boundary:Restricted area LECM LER43 TORRIJOS:
+ARTCC boundary:Restricted area LECM LER57 LAGUNA FUENTE DE PIEDRA:
+ARTCC boundary:Restricted area LECM LER63 MURCIA:
+ARTCC boundary:Restricted area LECM LER76 EL FERROL:
+ARTCC boundary:Restricted area LECM LER86A BADAJOZ:
+ARTCC boundary:Restricted area LECM LER86B:
+ARTCC boundary:Restricted area LECM LER86C:
+ARTCC boundary:Restricted area LECM LER93 MARISMA DE HUELVA:
+ARTCC boundary:Restricted area LECM LER99A AGONCILLO:
+ARTCC boundary:Restricted area LECM LER99B:
+ARTCC boundary:Restricted area LECM LER99C:
+ARTCC boundary:Restricted area LECM TSA 30 ATLAS:
+ARTCC boundary:Restricted area LPPC LPR24C:
+ARTCC boundary:Restricted area LPPC LPR51BN:
+ARTCC boundary:Restricted area LPPC LPR51BS:
+ARTCC high boundary:AoR APP LETO:
+ARTCC high boundary:AoR CTR LECS SEVILLA CONTROL:
+ARTCC high boundary:FIR border LECM FIR:
+ARTCC high boundary:TMA LEAB CTA:
+ARTCC high boundary:TMA LEAM ALMERIA:
+ARTCC high boundary:TMA LEAS ASTURIAS:
+ARTCC high boundary:TMA LEBB BILBAO:
+ARTCC high boundary:TMA LECL LEVANTE:
+ARTCC high boundary:TMA LELN CTA LEON:
+ARTCC high boundary:TMA LEMD MADRID:
+ARTCC high boundary:TMA LEPP CTA PAMPLONA:
+ARTCC high boundary:TMA LERJ CTA LOGROÑO:
+ARTCC high boundary:TMA LESO CTA SAN SEBASTIAN:
+ARTCC high boundary:TMA LEST GALICIA:
+ARTCC high boundary:TMA LEVT CTA VITORIA:
+ARTCC high boundary:TMA LEXJ SANTANDER:
+ARTCC high boundary:TMA LEZG ZARAGOZA:
+ARTCC high boundary:TMA LEZL SEVILLA:
+ARTCC low boundary:FIZ LEBA:
+ARTCC low boundary:FIZ LEHC AREA 1:
+ARTCC low boundary:FIZ LEHC AREA 2:
+ARTCC low boundary:FIZ LERL:
+ARTCC low boundary:Tower CTR LEAB:
+ARTCC low boundary:Tower CTR LEAM:
+ARTCC low boundary:Tower CTR LEAM ATZ:
+ARTCC low boundary:Tower CTR LEAN ATZ:
+ARTCC low boundary:Tower CTR LEAS ATZ:
+ARTCC low boundary:Tower CTR LEAS CTR:
+ARTCC low boundary:Tower CTR LEBB ATZ:
+ARTCC low boundary:Tower CTR LEBB CTR:
+ARTCC low boundary:Tower CTR LEBG ATZ:
+ARTCC low boundary:Tower CTR LEBG CTR:
+ARTCC low boundary:Tower CTR LEBZ ATZ:
+ARTCC low boundary:Tower CTR LEBZ CTR:
+ARTCC low boundary:Tower CTR LECO CTR:
+ARTCC low boundary:Tower CTR LECU ATZ:
+ARTCC low boundary:Tower CTR LECV ATZ:
+ARTCC low boundary:Tower CTR LECV CTR:
+ARTCC low boundary:Tower CTR LEGR ATZ:
+ARTCC low boundary:Tower CTR LEGR CTR:
+ARTCC low boundary:Tower CTR LEGT ATZ:
+ARTCC low boundary:Tower CTR LEJR CTR:
+ARTCC low boundary:Tower CTR LELN ATZ:
+ARTCC low boundary:Tower CTR LELN CTR:
+ARTCC low boundary:Tower CTR LEMD ATZ:
+ARTCC low boundary:Tower CTR LEMD CTR:
+ARTCC low boundary:Tower CTR LEMG ATZ:
+ARTCC low boundary:Tower CTR LEMG CTR:
+ARTCC low boundary:Tower CTR LEMO ATZ:
+ARTCC low boundary:Tower CTR LEMO CTR:
+ARTCC low boundary:Tower CTR LEPP ATZ:
+ARTCC low boundary:Tower CTR LEPP CTR:
+ARTCC low boundary:Tower CTR LERJ ATZ:
+ARTCC low boundary:Tower CTR LERJ CTR:
+ARTCC low boundary:Tower CTR LERT ATZ:
+ARTCC low boundary:Tower CTR LERT CTR:
+ARTCC low boundary:Tower CTR LESA ATZ:
+ARTCC low boundary:Tower CTR LESA CTR:
+ARTCC low boundary:Tower CTR LESO ATZ:
+ARTCC low boundary:Tower CTR LESO CTR:
+ARTCC low boundary:Tower CTR LEST ATZ:
+ARTCC low boundary:Tower CTR LEST CTR:
+ARTCC low boundary:Tower CTR LETL ATZ:
+ARTCC low boundary:Tower CTR LETO ATZ:
+ARTCC low boundary:Tower CTR LEVD ATZ:
+ARTCC low boundary:Tower CTR LEVD CTR:
+ARTCC low boundary:Tower CTR LEVT ATZ:
+ARTCC low boundary:Tower CTR LEVT CTR:
+ARTCC low boundary:Tower CTR LEVX CTR:
+ARTCC low boundary:Tower CTR LEXJ ATZ:
+ARTCC low boundary:Tower CTR LEXJ CTR:
+ARTCC low boundary:Tower CTR LEZG ATZ:
+ARTCC low boundary:Tower CTR LEZG CTR:
+ARTCC low boundary:Tower CTR LEZL CTR:
+Fixes:AMAKA:name
+Fixes:AMAKA:symbol
+Fixes:DEVAR:name
+Fixes:DEVAR:symbol
+Fixes:DORAR:name
+Fixes:DORAR:symbol
+Fixes:KUVAN:name
+Fixes:KUVAN:symbol
+Fixes:LASIT:name
+Fixes:LASIT:symbol
+Fixes:MASIP:name
+Fixes:MASIP:symbol
+Fixes:MAVOS:name
+Fixes:MAVOS:symbol
+Fixes:ROMIL:name
+Fixes:ROMIL:symbol
+Fixes:XONDA:name
+Fixes:XONDA:symbol
+Free Text:LEAS VFR\E1:freetext
+Free Text:LEAS VFR\E2:freetext
+Free Text:LEAS VFR\N:freetext
+Free Text:LEAS VFR\S1:freetext
+Free Text:LEAS VFR\S2:freetext
+Free Text:LEAS VFR\S3:freetext
+Free Text:LEAS VFR\SE:freetext
+Free Text:LEAS VFR\SW:freetext
+Free Text:LEAS VFR\W1:freetext
+Free Text:LEAS VFR\W2:freetext
+Geo:LEAS Groundlayout GND:
+Geo:LEAS Groundlayout TAXILINES:
+Geo:LECM Landmark Coastline Norte de España:
+High airways:ITI10:line
+High airways:ITI20:line
+High airways:ITI21:line
+High airways:ITI25:line
+High airways:ITI26:line
+High airways:ITI40:line
+High airways:ITI41:line
+High airways:ITI50:line
+High airways:ITI60:line
+High airways:ITI80:line
+High airways:L2:line
+High airways:Q255:line
+High airways:Q42:line
+High airways:Q700:line
+High airways:T12:line
+High airways:T13:line
+High airways:T16:line
+High airways:T213:line
+High airways:T290:line
+High airways:T9:line
+High airways:UA24:line
+High airways:UA27:line
+High airways:UA29:line
+High airways:UA31:line
+High airways:UA34:line
+High airways:UA411:line
+High airways:UA44:line
+High airways:UA6:line
+High airways:UA604:line
+High airways:UA621:line
+High airways:UB11:line
+High airways:UB16:line
+High airways:UB28:line
+High airways:UB31:line
+High airways:UB726:line
+High airways:UB738:line
+High airways:UG26:line
+High airways:UG30:line
+High airways:UG5:line
+High airways:UG850:line
+High airways:UH104:line
+High airways:UJ3:line
+High airways:UJ36:line
+High airways:UJ4:line
+High airways:UJ66:line
+High airways:UJ9:line
+High airways:UL102:line
+High airways:UL110:line
+High airways:UL112:line
+High airways:UL127:line
+High airways:UL129:line
+High airways:UL14:line
+High airways:UL150:line
+High airways:UL152:line
+High airways:UL155:line
+High airways:UL16:line
+High airways:UL176:line
+High airways:UL184:line
+High airways:UL185:line
+High airways:UL195:line
+High airways:UL27:line
+High airways:UL34:line
+High airways:UL45:line
+High airways:UL58:line
+High airways:UL65:line
+High airways:UL722:line
+High airways:UL82:line
+High airways:UL866:line
+High airways:UL873:line
+High airways:UM129:line
+High airways:UM133:line
+High airways:UM134:line
+High airways:UM143:line
+High airways:UM154:line
+High airways:UM176:line
+High airways:UM182:line
+High airways:UM184:line
+High airways:UM190:line
+High airways:UM191:line
+High airways:UM192:line
+High airways:UM24:line
+High airways:UM299:line
+High airways:UM30:line
+High airways:UM372:line
+High airways:UM445:line
+High airways:UM601:line
+High airways:UM603:line
+High airways:UM616:line
+High airways:UM728:line
+High airways:UM731:line
+High airways:UM744:line
+High airways:UM871:line
+High airways:UM976:line
+High airways:UM984:line
+High airways:UM985:line
+High airways:UM986:line
+High airways:UM989:line
+High airways:UM999:line
+High airways:UN10:line
+High airways:UN13:line
+High airways:UN31:line
+High airways:UN460:line
+High airways:UN461:line
+High airways:UN462:line
+High airways:UN470:line
+High airways:UN480:line
+High airways:UN493:line
+High airways:UN608:line
+High airways:UN725:line
+High airways:UN726:line
+High airways:UN727:line
+High airways:UN728:line
+High airways:UN729:line
+High airways:UN733:line
+High airways:UN741:line
+High airways:UN745:line
+High airways:UN747:line
+High airways:UN850:line
+High airways:UN851:line
+High airways:UN852:line
+High airways:UN853:line
+High airways:UN854:line
+High airways:UN855:line
+High airways:UN856:line
+High airways:UN857:line
+High airways:UN858:line
+High airways:UN859:line
+High airways:UN860:line
+High airways:UN861:line
+High airways:UN862:line
+High airways:UN863:line
+High airways:UN864:line
+High airways:UN865:line
+High airways:UN866:line
+High airways:UN867:line
+High airways:UN869:line
+High airways:UN870:line
+High airways:UN871:line
+High airways:UN872:line
+High airways:UN873:line
+High airways:UN975:line
+High airways:UN976:line
+High airways:UN979:line
+High airways:UN981:line
+High airways:UN995:line
+High airways:UP152:line
+High airways:UP181:line
+High airways:UP34:line
+High airways:UP600:line
+High airways:UP620:line
+High airways:UP75:line
+High airways:UP84:line
+High airways:UP860:line
+High airways:UP87:line
+High airways:UQ210:line
+High airways:UR10:line
+High airways:UR722:line
+High airways:UR724:line
+High airways:UR985:line
+High airways:UT100:line
+High airways:UT113:line
+High airways:UT121:line
+High airways:UT122:line
+High airways:UT123:line
+High airways:UT158:line
+High airways:UT161:line
+High airways:UT176:line
+High airways:UT18:line
+High airways:UT181:line
+High airways:UT182:line
+High airways:UT183:line
+High airways:UT184:line
+High airways:UT185:line
+High airways:UT186:line
+High airways:UT21:line
+High airways:UT210:line
+High airways:UT24:line
+High airways:UT245:line
+High airways:UT249:line
+High airways:UT250:line
+High airways:UT252:line
+High airways:UT257:line
+High airways:UT3:line
+High airways:UT312:line
+High airways:UT326:line
+High airways:UT328:line
+High airways:UT410:line
+High airways:UT412:line
+High airways:UT424:line
+High airways:UT429:line
+High airways:UT430:line
+High airways:UT460:line
+High airways:UT5:line
+High airways:UT520:line
+High airways:UT600:line
+High airways:UT7:line
+High airways:UV12:line
+High airways:UV15:line
+High airways:UV44:line
+High airways:UW240:line
+High airways:UW700:line
+High airways:UY114:line
+High airways:UY115:line
+High airways:UY120:line
+High airways:UY155:line
+High airways:UY156:line
+High airways:UY16:line
+High airways:UY160:line
+High airways:UY22:line
+High airways:UY23:line
+High airways:UY25:line
+High airways:UY27:line
+High airways:UY30:line
+High airways:UY305:line
+High airways:UY341:line
+High airways:UY753:line
+High airways:UY80:line
+High airways:UY810:line
+High airways:UY90:line
+High airways:UZ1:line
+High airways:UZ15:line
+High airways:UZ151:line
+High airways:UZ161:line
+High airways:UZ165:line
+High airways:UZ167:line
+High airways:UZ168:line
+High airways:UZ174:line
+High airways:UZ18:line
+High airways:UZ180:line
+High airways:UZ188:line
+High airways:UZ19:line
+High airways:UZ193:line
+High airways:UZ194:line
+High airways:UZ21:line
+High airways:UZ218:line
+High airways:UZ219:line
+High airways:UZ22:line
+High airways:UZ222:line
+High airways:UZ223:line
+High airways:UZ224:line
+High airways:UZ226:line
+High airways:UZ227:line
+High airways:UZ23:line
+High airways:UZ230:line
+High airways:UZ237:line
+High airways:UZ238:line
+High airways:UZ245:line
+High airways:UZ25:line
+High airways:UZ26:line
+High airways:UZ271:line
+High airways:UZ28:line
+High airways:UZ29:line
+High airways:UZ308:line
+High airways:UZ365:line
+High airways:UZ38:line
+High airways:UZ4:line
+High airways:UZ405:line
+High airways:UZ406:line
+High airways:UZ409:line
+High airways:UZ436:line
+High airways:UZ444:line
+High airways:UZ46:line
+High airways:UZ475:line
+High airways:UZ5:line
+High airways:UZ53:line
+High airways:UZ539:line
+High airways:UZ596:line
+High airways:UZ7:line
+High airways:UZ8:line
+High airways:UZ82:line
+High airways:UZ871:line
+High airways:UZ9:line
+High airways:Y101:line
+High airways:Y102:line
+High airways:Y103:line
+High airways:Y105:line
+High airways:Y135:line
+High airways:Y136:line
+High airways:Y207:line
+NDBs:AV:frequency
+NDBs:AV:name
+NDBs:AV:symbol
+Runways:LEAS 11-29:centerline
+Runways:LEAS 11-29:extended centerline 1
+Runways:LEAS 11-29:extended centerline 1 left base
+Runways:LEAS 11-29:extended centerline 1 left ticks
+Runways:LEAS 11-29:extended centerline 1 left vectoring
+Runways:LEAS 11-29:extended centerline 1 right base
+Runways:LEAS 11-29:extended centerline 1 right ticks
+Runways:LEAS 11-29:extended centerline 1 right vectoring
+Runways:LEAS 11-29:extended centerline 2
+Runways:LEAS 11-29:extended centerline 2 left base
+Runways:LEAS 11-29:extended centerline 2 left ticks
+Runways:LEAS 11-29:extended centerline 2 left vectoring
+Runways:LEAS 11-29:extended centerline 2 right base
+Runways:LEAS 11-29:extended centerline 2 right ticks
+Runways:LEAS 11-29:extended centerline 2 right vectoring
+Runways:LEAS 11-29:name
+VORs:AGN:symbol
+VORs:AGP:symbol
+VORs:ALM:symbol
+VORs:ALR:symbol
+VORs:ALT:symbol
+VORs:AMR:symbol
+VORs:AN:symbol
+VORs:AOG:symbol
+VORs:ARR:symbol
+VORs:ATE:symbol
+VORs:AVN:symbol
+VORs:BAN:symbol
+VORs:BBI:symbol
+VORs:BCN:symbol
+VORs:BEJ:symbol
+VORs:BGR:symbol
+VORs:BLN:symbol
+VORs:BLV:symbol
+VORs:BMC:symbol
+VORs:BRA:symbol
+VORs:BSA:symbol
+VORs:BTZ:symbol
+VORs:BUR:symbol
+VORs:CAA:symbol
+VORs:CAS:symbol
+VORs:CCS:symbol
+VORs:CDB:symbol
+VORs:CDP:symbol
+VORs:CEU:symbol
+VORs:CFA:symbol
+VORs:CGC:symbol
+VORs:CJN:symbol
+VORs:CLE:symbol
+VORs:CLF:symbol
+VORs:CLS:symbol
+VORs:CMA:symbol
+VORs:CNA:symbol
+VORs:CNR:symbol
+VORs:CTN:symbol
+VORs:DAR:symbol
+VORs:DGO:symbol
+VORs:DML:symbol
+VORs:DMR:symbol
+VORs:DMT:symbol
+VORs:DMU:symbol
+VORs:DMX:symbol
+VORs:DPR:symbol
+VORs:DSL:symbol
+VORs:EON:symbol
+VORs:ESP:symbol
+VORs:FAR:symbol
+VORs:FJR:symbol
+VORs:FTM:symbol
+VORs:GAI:symbol
+VORs:GBR:symbol
+VORs:GDA:symbol
+VORs:GIR:symbol
+VORs:GRS:symbol
+VORs:HBM:symbol
+VORs:HIG:symbol
+VORs:HIJ:symbol
+VORs:HUE:symbol
+VORs:IBA:symbol
+VORs:ITR:symbol
+VORs:ITS:symbol
+VORs:JOA:symbol
+VORs:JRZ:symbol
+VORs:LGH:symbol
+VORs:LIS:symbol
+VORs:LLE:symbol
+VORs:LMB:symbol
+VORs:LMG:symbol
+VORs:LPA:symbol
+VORs:LRA:symbol
+VORs:MAR:symbol
+VORs:MDM:symbol
+VORs:MEL:symbol
+VORs:MEN:symbol
+VORs:MGA:symbol
+VORs:MHN:symbol
+VORs:MJV:symbol
+VORs:MLA:symbol
+VORs:MLG:symbol
+VORs:MLL:symbol
+VORs:MOJ:symbol
+VORs:MOS:symbol
+VORs:MRN:symbol
+VORs:MTL:symbol
+VORs:MTR:symbol
+VORs:MUR:symbol
+VORs:NEA:symbol
+VORs:NG:symbol
+VORs:NSA:symbol
+VORs:NUB:symbol
+VORs:NVS:symbol
+VORs:ORA:symbol
+VORs:ORG:symbol
+VORs:OVR:symbol
+VORs:PAP:symbol
+VORs:PDT:symbol
+VORs:POS:symbol
+VORs:PPG:symbol
+VORs:PPN:symbol
+VORs:PRA:symbol
+VORs:PRT:symbol
+VORs:RBO:symbol
+VORs:RES:symbol
+VORs:SAU:symbol
+VORs:SDM:symbol
+VORs:SGR:symbol
+VORs:SIE:symbol
+VORs:SLL:symbol
+VORs:SNR:symbol
+VORs:SRA:symbol
+VORs:SSJ:symbol
+VORs:SSN:symbol
+VORs:SSY:symbol
+VORs:STG:symbol
+VORs:SVL:symbol
+VORs:TAB:symbol
+VORs:TBC:symbol
+VORs:TBO:symbol
+VORs:TBR:symbol
+VORs:TGR:symbol
+VORs:TIS:symbol
+VORs:TJZ:symbol
+VORs:TLD:symbol
+VORs:TLM:symbol
+VORs:TNG:symbol
+VORs:TNR:symbol
+VORs:TOU:symbol
+VORs:TRB:symbol
+VORs:TRL:symbol
+VORs:TSC:symbol
+VORs:TTN:symbol
+VORs:VAB:symbol
+VORs:VBZ:symbol
+VORs:VES:symbol
+VORs:VFA:symbol
+VORs:VFD:symbol
+VORs:VGE:symbol
+VORs:VGO:symbol
+VORs:VIS:symbol
+VORs:VJF:symbol
+VORs:VLA:symbol
+VORs:VLC:symbol
+VORs:VNE:symbol
+VORs:VRA:symbol
+VORs:VSJ:symbol
+VORs:VTB:symbol
+VORs:VTZ:symbol
+VORs:YES:symbol
+VORs:ZAR:symbol
+VORs:ZEM:symbol
+VORs:ZMR:symbol
+VORs:ZR:symbol
+VORs:ZZA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Formacion
+WINDOWAREA:43.016399:-7.491194:44.154965:-4.689433
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:1710
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:519
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
