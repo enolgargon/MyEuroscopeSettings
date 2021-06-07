@@ -6,9 +6,9 @@ En este repositorio estare subiendo y manteniendo la configuración que yo utili
 - Configuración de plugins. La carpeta LEXX/Plugins también contiene una configuración para que el plugin VFPC funcione. Este solo funciona con los aeropuertos en los que esté configurado.
 
 A continuación incluyo 3 capturas de cómo se vería LEIB con mi configuración.
-![Vista de tierra](gnd_view.png)
+![Vista de tierra](gnd_view.PNG)
 ![Vista aérea de torre](twr_view.png)
-![Vista aproximación](app_view.png)
+![Vista aproximación](app_view.PNG)
 
 ## Plugins
 Ademas de los ficheros de configuración que incluyo en el repositorio, tengo instalados los siguientes plugins:
